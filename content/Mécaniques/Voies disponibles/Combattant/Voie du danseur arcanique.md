@@ -1,7 +1,10 @@
 ---
 title: Voie du danseur arcanique
 draft: false
-tags: []
+tags:
+  - dégâts
+  - déplacement
+  - agilité
 ---
 ## 1 - Pirouette magique
 
@@ -19,7 +22,7 @@ Ne peux être utiliser si un adversaire est au corps à corps.
 
 **Doit obligatoirement cibler un adversaire**.
 
-Distance maximale : 15 m.
+Distance maximale : 15 m
 
 ## 4 - Agilité héroïque
 
