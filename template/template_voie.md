@@ -1,6 +1,7 @@
 ---
 title: "{{title}}"
 draft: true
+tags:
 ---
 ## 1 -
 

@@ -1,6 +1,9 @@
 ---
 title: Nymirona
 draft: false
+tags:
+  - obsidien
+  - dragon
 ---
 ![[images/nymirona.png]]
 # Caractéristiques principales
