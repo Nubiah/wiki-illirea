@@ -6,7 +6,7 @@ draft: false
 *Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Thalia]]*
 # Sephys & sa royauté
 
-Tuck est parti sur Sephys pour affaire "personnelle". Pendant ce temps, un émissaire de la Royauté de Sephys est passé à la Taverne du Dragon Ronflant pour obtenir de l'aide. En effet, les enfants de notables de Sephys ont disparus suite à une "sortie" sur une île normalement vierge de toute occupation : Osupio. L'objectif est de retrouver le groupe de 6 adolescents / jeunes adultes et de les ramener, bien évidemment vivants, sur Sephys.
+Tuck est parti sur [[Sephys]] pour affaire "personnelle". Pendant ce temps, un émissaire de la [[Royauté de Sephys]] est passé à la [[Taverne du Dragon Ronflant]] pour obtenir de l'aide. En effet, les enfants de notables de Sephys ont disparus suite à une "sortie" sur une île normalement vierge de toute occupation : [[Osupio]]. L'objectif est de retrouver le groupe de 6 adolescents / jeunes adultes et de les ramener, bien évidemment vivants, sur Sephys.
 
 Un autre mercenaire a été convié à cette "chasse" : Thalia, une jeune elfe désirant elle aussi gagner sa récompense.
 
@@ -16,7 +16,7 @@ L'ile est réputée comme étant complétement désertique, tant la majorité de
 
 ## Une étendue désertique
 
-La traversée du désert dura des heures. Des traces clairements identifiables gisaient dans le sable, en direction de la montagne. Aucun dragon, pas même un Neglour ne montra le bout d'une écaille. Hector était resté au St George, posé juste à coté du transport des 6 adolescents.
+La traversée du désert dura des heures. Des traces clairement identifiables gisaient dans le sable, en direction de la montagne. Aucun dragon, pas même un [[Neglour]] ne montra le bout d'une écaille. [[Hector]] était resté au St George, posé juste à coté du transport des 6 adolescents.
 
 ## Un donjon dans la montagne ?
 
@@ -26,7 +26,7 @@ La piste les mena ensuite à une ouverture pratiquée dans un mur à peine visib
 
 Ici, ils y découvrirent des tonnes de mutant, tous plus bizarres les uns que les autres. Parmi eux se trouvaient hélas les cadavres des notables à sauver.
 
-Après bien des combats pour se frayer un chemin, le groupe trouva la pièce dans laquelle se trouvait la dépouille du maitre des lieux : Nostro Nehema. L'un des adolescents y était encore en vie, bien qu'ayant perdu une jambe et étant dans un sale état.
+Après bien des combats pour se frayer un chemin, le groupe trouva la pièce dans laquelle se trouvait la dépouille du maitre des lieux : [[Nostro Nehema]]. L'un des adolescents y était encore en vie, bien qu'ayant perdu une jambe et étant dans un sale état.
 
 ## Fuite vers le St George !
 
@@ -34,7 +34,7 @@ Dans leur dernier combat en haut du donjon, un immense ogre mutant était passé
 
 Le groupe parvint néanmoins à sortir du donjon par là où étaient arrivés et s'élancèrent dans le désert à toutes jambes les mutants derrière eux.
 
-Un Hulud se pris au jeu et commença à moissonner tout ce qui se trouvaient en surface, mutants y compris. En arrivant au St George, les joueurs constatèrent la destruction de celui-ci par des Neglours, toujours occupés à se battre avec Hector. Celui ci, pris d'une colère sans nom à la destruction de ce dernier, était devenu rouge de fureur, au sens littéral, avant de tripler de volume pour massacrer les Neglours. Le groupe se rabattut sur le transport des nobles. Le transport avait décollé juste à temps pour éviter les machoires impitoyables du Hulud.
+Un [[Hulud]] se pris au jeu et commença à moissonner tout ce qui se trouvaient en surface, mutants y compris. En arrivant au St George, les joueurs constatèrent la destruction de celui-ci par des Neglours, toujours occupés à se battre avec Hector. Celui ci, pris d'une colère sans nom à la destruction de ce dernier, était devenu rouge de fureur, au sens littéral, avant de tripler de volume pour massacrer les Neglours. Le groupe se rabattu sur le transport des nobles. Le transport avait décollé juste à temps pour éviter les mâchoires impitoyables du Hulud.
 
 # Retour à Sephys
 

@@ -4,6 +4,7 @@ draft: false
 tags:
   - connaissance
   - utilitaire
+  - intelligence
 ---
 ## 1 - Un passionné de lecture
 
@@ -11,7 +12,7 @@ Votre personnage gagne +2 succès lors des tests de Connaissances.
 
 ## 2 - Le sens du détail
 
-Vous gagnez +2 succès sur un test d'Intuition concernant le récit d'un personnage qui aurait un rapport à votre passion.
+Vous gagnez +2 succès sur un test d'Intuition concernant le récit d'un personnage sur des évènements passés.
 
 ## 3 - Multilingue
 
