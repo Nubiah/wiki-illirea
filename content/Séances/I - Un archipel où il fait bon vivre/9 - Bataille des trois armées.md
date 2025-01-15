@@ -3,7 +3,7 @@ title: 9 - Bataille des trois armées
 date: 2024-11-23
 draft: false
 ---
-*Joueurs présents :* [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Tuck](quartz/content/Personnages/PJ/Tuck.md)
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Tuck]]*
 
 # Introduction
 

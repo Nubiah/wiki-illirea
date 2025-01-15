@@ -3,7 +3,7 @@ title: 3 - Enquête à Osupio
 date: 2024-03-15
 draft: false
 ---
-*Joueurs présents :* [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Thalia](quartz/content/Personnages/PJ/Thalia.md)
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Thalia]]*
 # Sephys & sa royauté
 
 Tuck est parti sur Sephys pour affaire "personnelle". Pendant ce temps, un émissaire de la Royauté de Sephys est passé à la Taverne du Dragon Ronflant pour obtenir de l'aide. En effet, les enfants de notables de Sephys ont disparus suite à une "sortie" sur une île normalement vierge de toute occupation : Osupio. L'objectif est de retrouver le groupe de 6 adolescents / jeunes adultes et de les ramener, bien évidemment vivants, sur Sephys.

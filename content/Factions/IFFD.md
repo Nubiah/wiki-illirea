@@ -1,0 +1,14 @@
+---
+title: IFFD
+draft: false
+---
+ 
+L'**Institut de la Faune & Flore Draconique** (IFFD) est une institution renommée, à la pointe de la recherche et de la conservation des espèces draconiques. Situé au cœur de **Sephys**, la capitale des régions connues, l’IFFD est reconnu pour son engagement envers la sauvegarde des créatures et végétaux les plus rares et mystérieux liés aux dragons.
+
+Le bâtiment principal de Sephys est une structure imposante et élégante, construite en verre et en acier pour symboliser l'harmonie entre modernité et nature sauvage. De vastes jardins botaniques entourent le centre, où poussent des plantes exotiques et uniques, associées à l'écosystème draconique. Certaines de ces plantes ont des propriétés mystiques et nécessitent des soins particuliers, ce qui fait de ces jardins une attraction prisée pour les chercheurs comme pour les visiteurs curieux. Les intérieurs du bâtiment sont vastes et lumineux, avec des laboratoires à la pointe de la technologie, des bibliothèques regorgeant de grimoires anciens, et des salles d’observation protégées par des barrières magiques et technologiques.
+
+L’IFFD ne se contente pas de documenter et de conserver. Ses chercheurs, des experts en biologie draconique, en histoire, en éthologie, et même certain en magie, travaillent en étroite collaboration pour percer les mystères des dragons, qu’il s’agisse de leur comportement, leur anatomie ou encore de la manière dont ils interagissent avec leur environnement. Les scientifiques y mènent des études sur la faune draconique, mais également sur la **flore draconique**, ces plantes qui ont évolué en symbiose avec ces imposantes créatures.
+
+Cependant, toutes les espèces ne peuvent pas être hébergées à Sephys. Pour les spécimens particulièrement dangereux ou instables, comme les dragons agressifs, ou des plantes vénéneuses et carnivores, l’IFFD possède un centre spécialisé sur **Ernox**, une ile plus isolée. Le centre d'Ernox était une installation ultra-sécurisée, située dans une ile qui n'abrite pas de dragon particulièrement dangereux. Ici, les études portaient notamment sur les comportements hostiles, la régénération draconique, ainsi que sur des expérimentations visant à comprendre et à éventuellement guérir les dragons blessés. Hélas ce centre, faute de moyen, n'est aujourd'hui plus que l'ombre de lui même.
+
+L'IFFD est non seulement un centre de recherche scientifique, mais également un bastion de préservation, luttant contre le braconnage draconique et le trafic de spécimens rares. Les chercheurs, soigneurs, et protecteurs de cet institut sont liés par une même mission : préserver l'équilibre des écosystèmes draconiques et assurer que ces créatures continuent de prospérer pour les générations futures, tout en enrichissant les connaissances sur leurs mondes secrets.

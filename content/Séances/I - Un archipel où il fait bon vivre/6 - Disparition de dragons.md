@@ -3,7 +3,7 @@ title: 6 - Disparitions de dragons
 date: 2024-08-17
 draft: false
 ---
-*Joueurs présents :* [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Tuck](quartz/content/Personnages/PJ/Tuck.md), [Skakraak](quartz/content/Personnages/PJ/Skakraak.md)
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Tuck]], [[Skakraak]]*
 # IFFD
 
 Une quinzaine de jours sont passés depuis leur dernière aventure. Le groupe se remet progressivement de leur aventure sur Colollon avec le terrible Drakkor et son dragon Obsidien.

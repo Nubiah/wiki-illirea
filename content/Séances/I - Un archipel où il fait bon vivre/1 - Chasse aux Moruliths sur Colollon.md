@@ -2,7 +2,7 @@
 date: 2023-12-02
 title: 1 - Chasse aux Moruliths
 ---
-*Joueurs présents : [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Tuck](quartz/content/Personnages/PJ/Tuck.md)*
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Tuck]]*
 ## Retour à la case départ
 
 [[Reptar]], [[Sherada]], [Batman](quartz/content/Personnages/PJ/Batman.md) & [[Tuck]] se sont rencontrés sur [Sephys](/doku.php?id=lieux:sephys "lieux:sephys") où ils ont décidé de prendre ensemble une mission qui semblait de prime abord relativement simple : chasser un [Fangatofa](/doku.php?id=creatures:fangatofa "creatures:fangatofa") et ramener son foie, riche de substance se revendant très bien sur le marché de la cité une fois raffiné. La bête a été localisée sur [Ohibrea](/doku.php?id=lieux:ohibrea "lieux:ohibrea"), une ile réputée comme étant relativement dangereuse, puisque de nombreux dragons y vivent. La chasse pourtant se passait très bien : l'animal était pris au piège, et forcé de se rabattre vers une grotte. Le groupe l'y a suivi, mais c'est là que tout à déraillé. Les 4 protagonistes se sont retrouvés nez à nez avec une créature légendaire : un [Pontianak](/doku.php?id=creatures:pontianak "creatures:pontianak"). Tous les 4 furent mit hors d'état par la créature qui s'enfuit sans les dévorer.

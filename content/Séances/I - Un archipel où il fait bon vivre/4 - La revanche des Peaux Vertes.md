@@ -3,7 +3,7 @@ title: 4 - La revanche des Peaux Vertes
 date: 2024-02-03
 draft: false
 ---
-*Joueurs présents :* [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Tuck](quartz/content/Personnages/PJ/Tuck.md)
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Tuck]]*
 
 Pendant [Chasse aux Morulith sur Colollon](/doku.php?id=seances:chasse-aux-morulith-sur-colollon "seances:chasse-aux-morulith-sur-colollon"), [Reptar](/doku.php?id=personnages:reptar "personnages:reptar"), [Shérada](/doku.php?id=personnages:sherada "personnages:sherada"), [Tuck](/doku.php?id=personnages:tuck "personnages:tuck") & [Batman](/doku.php?id=personnages:batman "personnages:batman") se sont attiré l'hostilité de plusieurs groupes de [gobelin](/doku.php?id=creatures:peaux-vertes "creatures:peaux-vertes"), allant jusqu'à tuer nombre d'entre eux. Cela eut pour conséquence de provoquer la haine des gobelins à l'encontre des humains peuplant cette ile et de lancer contre eux une guerre de territoire.
 

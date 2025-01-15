@@ -1,9 +1,9 @@
 ---
 title: 5 - Une terreur passagère
 date: 2024-06-08
-draft: true
+draft: false
 ---
-*Joueurs présents :* [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Tuck](quartz/content/Personnages/PJ/Tuck.md)
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Tuck]]*
 
 L'aventure fait suite à la session [La Revanche des Peaux Vertes](/doku.php?id=seances:la-revanche-des-peaux-vertes "seances:la-revanche-des-peaux-vertes").
 

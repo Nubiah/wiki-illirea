@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: "{{title}}"
 draft: true
 ---
  

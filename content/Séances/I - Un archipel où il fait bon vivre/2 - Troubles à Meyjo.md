@@ -3,7 +3,7 @@ title: 2 - Troubles à Meyjo
 date: 2023-12-31
 draft: false
 ---
-*Joueurs présents :* [Reptar](quartz/content/Personnages/PJ/Reptar.md), [Batman](quartz/content/Personnages/PJ/Batman.md), [Sherada](quartz/content/Personnages/PJ/Sherada.md), [Tuck](quartz/content/Personnages/PJ/Tuck.md)
+*Joueurs présents : [[Reptar]], [[Sherada]], [[Batman]], [[Tuck]]*
 
 # Introduction
 Suite à leur succès lors de leur dernière mission, et surtout parce qu'ils devaient encore pas mal d'argent à Gertrude, le groupe décida d'accepter une nouvelle quête qui les enverraient à Meyjo, une ile agricole. Des disparitions étaient signalées et il était fort à parier que des dragons se trouvaient derrière ces mystérieux enlèvements.
