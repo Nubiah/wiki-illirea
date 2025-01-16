@@ -30,7 +30,7 @@ Celui ci, tenancier de la taverne, les accueillent avec froideur et sans aucun m
 
 ## Entrepôts désaffectés
 
-Le groupe finit par trouver l'entrepôt dont parlait Vinch. Les ruelles, vides, étaient sombres et lugubres. Sur leur chemin, le groupe trouva un cadavre, assassiné récemment par des armes rudimentaires. Quelques minutes plus tard, le groupe tomba dans sur un groupe de [[peaux-vertes]], présent ici pour brûler l'entrepôt. Après leur avoir expliqué les us et coutume locales, deux Hobgobelins se sont enfuis dans les ruelles, laissant leurs alliés pour mort.
+Le groupe finit par trouver l'entrepôt dont parlait Vinch. Les ruelles, vides, étaient sombres et lugubres. Sur leur chemin, le groupe trouva un cadavre, assassiné récemment par des armes rudimentaires. Quelques minutes plus tard, le groupe tomba dans sur un groupe de [[Peaux-vertes]], présent ici pour brûler l'entrepôt. Après leur avoir expliqué les us et coutume locales, deux Hobgobelins se sont enfuis dans les ruelles, laissant leurs alliés pour mort.
 
 A l'intérieur de l'entrepôt, le groupe trouva la barge et les dragons d'Ernox, mutilés pour obtenir le silence. Un humain, [[Lammer]], était entré pour emmener la barge sur [[Vega]], une ile des régions inconnues. Après avoir rendu la barge à l'IFFD & aux autorités locales, le groupe est parti pour Vega.
 
