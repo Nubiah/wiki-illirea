@@ -26,7 +26,7 @@ tags:
 	- Le joueur ayant réussi le plus haut jet de Constitution se souviens même très légèrement de la chute du St George
 	- Les joueurs se sont réveillé après le crash. Mais ils se sont fait attaqué très rapidement par des [[Xu'Keen]] Des fléchettes tranquillisantes les ont renvoyés dans les limbes.
 	- Aucun souvenir des autres passagers du St George
-- Une sorte de dragon à 6 pattes aux écailles vertes tire le chariot. L'animal est juste harnaché et ne semble pas avoir spécialement d'instinct pour se libérer. 2 Xukeens sont assis derrière le harnachement et discutent par moment
+- Une sorte de dragon couvert de mousse ([[Neomossy]]) tire le chariot. L'animal est juste harnaché et ne semble pas avoir spécialement d'instinct pour se libérer. 2 Xukeens sont assis derrière le harnachement et discutent par moment
 - D'autres humanoïdes occupent d'autres cages
         - Deux sont des humains au teint foncés, aux oreilles anormalement longue
         - Il y a une sorte de grenouille humanoïde qui semble très intéressée par Reptar (un peu à la manière d'un chat). C’est la seule sur le chariot a être menottée
@@ -44,7 +44,7 @@ tags:
 - Plusieurs heures se passent. Sess peut parler de tout ce qu’elle sait, elle est presque trop pipelette. 
 ### L’arrivée de l’Empereur des Sable
 - Sess pose la main sur les écailles de Reptar. Elle lui dit d’un ton enjoué “Regarde Ti’tar, un [[Empereur des Sables]] ! [[Zhyma]] m’en a déjà parlé dans ces contes ! La légende veut qu’ils soient insatiables et dévorent toutes traces de vie autour d’eux”
-- Soudain, avant même que Reptar ait pu suivre le call de Sess, un cri vient perturber le silence ambiant. Les Xu’Keen vont volte face en même temps que les joueurs. L’un des leurs vient de se faire happer par une gigantesque créature semblable à un insecte.
+- Soudain, avant même que Reptar ait pu suivre le call de Sess, un cri vient perturber le silence ambiant. Les Xu’Keen vont volte face en même temps que les joueurs. L’un des leurs vient de se faire attraper par une gigantesque créature
 	- Le sable devant elle semble comme disparaitre mais réapparait plus loin derrière lui, comme propulsé
 - C’est la panique, tous les Xu’Keen se mettent à courir pour leur vie. Les piétons n’arrivent pas à suivre le rythme du chariot et des cavaliers et tentent par tous les moyens de s’accrocher au chariot ou à des montures mais les Xukeen sur ces véhicules se battent pour les virer
 - Le chariot n’avance pas assez vite et progressivement l’Empereur des sables se rapproche d’eux

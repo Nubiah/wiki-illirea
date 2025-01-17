@@ -5,14 +5,7 @@ tags:
 ---
  
 # Images à générer
-- [[Empereur des Sables]]
-- [[Maégarnes]]
-- [[Glisseurs d’Aube]]
 - [[Bokor]]
-- [[Epiérines]]
-- Dragon qui tire le chariot au début de [[10 - Un atterrissage mouvementé !]]
-- Les hyènes cheval
-- La tortue dragon de Sess
 
 # Foundry
 - Implémenter liste des glyphes
