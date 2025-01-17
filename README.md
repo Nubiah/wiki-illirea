@@ -1,2 +1,4 @@
 # Bienvenus sur le Wiki d'Illirea
-Illirea est un TTRPG conçu par Alexandre Gibey et qui n'a aucune prétention commerciale.
+Illirea est un TTRPG conçu intégralement par Alexandre Gibey sans aucune prétention commerciale.
+
+Certains noms et éléments sont empruntés à d’autres univers.

@@ -9,10 +9,11 @@ A son tour de jeu, un personnage peut agir en choisissant l'une des options suiv
 - 2 actions de mouvement
 
 # Défense
+#WIP 
 
 - La défense est déterminée par l'armure que le personnage porte, mais également par sa capacité à anticiper les coups et les éviter
-- Ainsi, chaque armure posséde une valeur de défense, mais également une valeur d'agilité maximum pouvant être pris en compte dans le calcul de la défense
-- Voir [Equipement](/doku.php?id=regles:equipement "regles:equipement")
+- Ainsi, chaque armure possède une valeur de défense, mais également une valeur d'agilité maximum pouvant être pris en compte dans le calcul de la défense
+- Voir [[Equipement]]
 
 # L'action de mouvement
 
@@ -80,9 +81,9 @@ A son tour de jeu, un personnage peut agir en choisissant l'une des options suiv
 ## Les dégâts
 
 - Si le test d'attaque est réussi, il faut déterminer les dommages et le résultat obtenu est alors retranché au nombre de point de vie de la cible.
-- **Combat avec arme** : on détermine les dégâts infligés avec une arme en lançant le ou les dé(s) de dommage de l'arme (cf. [Equipement](/doku.php?id=regles:equipement "regles:equipement")) en y ajoutant éventuellement un modificateur :
+- **Combat avec arme** : on détermine les dégâts infligés avec une arme en lançant le ou les dé(s) de dommage de l'arme (cf. [[Equipement]])) en y ajoutant éventuellement un modificateur :
     - Par défaut, il s'agit de la **Force** mais certaines capacités peuvent modifier cela
-    - Pour les attaques à distance, on n'ajoute pas de caractéristique saif si une capacité indique le contraire
+    - Pour les attaques à distance, on n'ajoute pas de caractéristique sauf si une capacité indique le contraire
 
 **Dégâts = dé(s) de dégât de l'arme + Bonus éventuel**
 

@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"07b8236f6cad3bc1","type":"group","backgroundStyle":"ratio","x":-3680,"y":-3600,"width":10000,"height":6667,"label":"Untitled group","background":"quartz/content/images/Kratorea.jpg"},
+		{"id":"ee6b236c2fa1caa3","type":"group","x":2520,"y":-266,"width":1723,"height":2726,"color":"5","label":"Clan Brumécaille"},
+		{"id":"b3cc221776e3f625","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Zhyma.md","x":3465,"y":514,"width":350,"height":700},
+		{"id":"2e50ab3f1b7437de","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Liryne.md","x":3465,"y":1274,"width":360,"height":680},
+		{"id":"7bf852946b20d0fb","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Pryss.md","x":3863,"y":514,"width":350,"height":700},
+		{"id":"654c32e01b854c87","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Sess.md","x":3863,"y":1274,"width":360,"height":1146},
+		{"id":"082cbc2015615cec","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Vrakthar.md","x":3075,"y":1274,"width":350,"height":660},
+		{"id":"86bf25fe9ed99f46","type":"text","text":"# Conseil clanique ","x":1020,"y":-180,"width":320,"height":80},
+		{"id":"4fce4c08e08402a1","type":"text","text":"# Luminécaille","x":1880,"y":-1920,"width":250,"height":60},
+		{"id":"6e9f8f0184e41377","type":"text","text":"# Vénéflamme","x":160,"y":-1120,"width":250,"height":60},
+		{"id":"b7390e3bf6034e48","type":"text","text":"# Crotalus","x":-840,"y":600,"width":250,"height":60},
+		{"id":"f9e6b0ae23dc7419","type":"text","text":"# Ondécaille","x":1215,"y":1880,"width":250,"height":60},
+		{"id":"cd2eb18c10e648be","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Bruxan.md","x":2540,"y":514,"width":350,"height":700},
+		{"id":"f938684386d642b3","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Myrelis.md","x":3065,"y":-246,"width":350,"height":700},
+		{"id":"926eb1b0b51ecf6a","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Kazhnir.md","x":3465,"y":-246,"width":350,"height":700},
+		{"id":"358a082f0a836802","type":"file","file":"quartz/content/Personnages/PNJ/Humanoïde/Tennok.md","x":3075,"y":514,"width":350,"height":700}
+	],
+	"edges":[
+		{"id":"63d08131dfaeae18","fromNode":"b7390e3bf6034e48","fromSide":"top","toNode":"86bf25fe9ed99f46","toSide":"bottom"},
+		{"id":"9ac4223efa2ea6b2","fromNode":"f9e6b0ae23dc7419","fromSide":"top","toNode":"86bf25fe9ed99f46","toSide":"bottom"},
+		{"id":"0da9f5ebea6af220","fromNode":"4fce4c08e08402a1","fromSide":"bottom","toNode":"86bf25fe9ed99f46","toSide":"top"},
+		{"id":"c699ef0d56e9722a","fromNode":"6e9f8f0184e41377","fromSide":"right","toNode":"86bf25fe9ed99f46","toSide":"top"},
+		{"id":"fb8dc0eafb3426b0","fromNode":"f938684386d642b3","fromSide":"left","toNode":"cd2eb18c10e648be","toSide":"right"},
+		{"id":"f346c5c48ec0f613","fromNode":"926eb1b0b51ecf6a","fromSide":"left","toNode":"f938684386d642b3","toSide":"right"},
+		{"id":"ba90c9ba15f08f9a","fromNode":"358a082f0a836802","fromSide":"left","toNode":"cd2eb18c10e648be","toSide":"right"},
+		{"id":"f3cc97e57d811689","fromNode":"b3cc221776e3f625","fromSide":"left","toNode":"358a082f0a836802","toSide":"right"},
+		{"id":"631085408de0851a","fromNode":"7bf852946b20d0fb","fromSide":"left","toNode":"b3cc221776e3f625","toSide":"right"},
+		{"id":"da71738791aaae3c","fromNode":"082cbc2015615cec","fromSide":"left","toNode":"cd2eb18c10e648be","toSide":"right"},
+		{"id":"3aabfce95e539dc3","fromNode":"2e50ab3f1b7437de","fromSide":"left","toNode":"082cbc2015615cec","toSide":"right"},
+		{"id":"34d399eb863d367f","fromNode":"654c32e01b854c87","fromSide":"left","toNode":"082cbc2015615cec","toSide":"right"},
+		{"id":"9e721bdff9a7cb21","fromNode":"ee6b236c2fa1caa3","fromSide":"left","toNode":"86bf25fe9ed99f46","toSide":"bottom"}
+	]
+}
