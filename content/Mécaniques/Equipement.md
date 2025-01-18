@@ -60,4 +60,4 @@ draft: false
 # Equipement magique
 
 - Est considéré comme équipement magique toute pièces d'armures ou armes ayant reçu une attention particulière lors de sa création, lui donnant des caractéristiques particulières.
-- Voir [Equipement magique](/doku.php?id=regles:equipement-magique "regles:equipement-magique")
+- Voir [[Equipement magique]]

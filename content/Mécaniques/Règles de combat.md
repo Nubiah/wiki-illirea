@@ -9,11 +9,18 @@ A son tour de jeu, un personnage peut agir en choisissant l'une des options suiv
 - 2 actions de mouvement
 
 # Défense
-#WIP 
 
-- La défense est déterminée par l'armure que le personnage porte, mais également par sa capacité à anticiper les coups et les éviter
-- Ainsi, chaque armure possède une valeur de défense, mais également une valeur d'agilité maximum pouvant être pris en compte dans le calcul de la défense
-- Voir [[Equipement]]
+- ~~La défense est déterminée par l'armure que le personnage porte, mais également par sa capacité à anticiper les coups et les éviter~~
+- ~~Ainsi, chaque armure possède une valeur de défense, mais également une valeur d'agilité maximum pouvant être pris en compte dans le calcul de la défense~~
+
+- Chaque pièce d’armure possède une défense associée. Certaines voies et compétences apportent des points de défense supplémentaires
+- Chaque point de défense correspond à un dé 6
+- Lorsque le personnage subit des dégâts physiques (fonctionne de la même manière pour la défense magique, contre les dégâts magiques) il lance alors tous ses dés de défenses. La règle des succès est la même que pour tout les autres jets.
+	- Si le jet de défense est supérieur au jet d’attaque de l’assaillant, l’attaque échoue
+	- Si le jet de défense est inférieur au jet d’attaque de l’assaillant, l’attaque réussie
+	- Si les deux jets sont égaux, l’attaque est considérée comme réussie, mais seule la moitié des dégâts est infligée
+- Cf. [[Equipement]] pour plus d’informations sur les valeurs de défense des armures
+
 
 # L'action de mouvement
 
@@ -68,7 +75,7 @@ A son tour de jeu, un personnage peut agir en choisissant l'une des options suiv
 - Selon la manoeuvre certains facteurs supplémentaires peuvent entrer en considération
 - En cas de réussite la manoeuvre n'inflige pas de dégâts, mais inflige un effet ou une condition à la cible
 
-### Liste des manoeuvres :
+### Liste des manœuvres :
 
 - Distraire (+ **Charisme**) : la cible subit un malus de -4 succès à tous ses tests de **Perception** et -3 en **Défense** pendant 1 round. Elle est considérée comme étant surprise pour les attaques sournoises.
 - Repousser : la cible recule de **Force** de l'attaquant + 3 mètres et l'attaquant prend sa place sur le terrain ainsi libéré. Si la cible était déjà acculée elle perd autant de Défense pour le tour. Cette action peut être précédée d'un déplacement de 10 m en direction de la cible.
@@ -104,9 +111,10 @@ Attaques magiques **: ces attaques n'ont pas de formule de dégâts par défaut,
 
 Quand un personnage joueur voit ses points de vie arriver à 0, il tombe au sol, inconscient.
 
-**On ne peut pas descendre en dessous de 0 PV.**
+> [!note]
+> On ne peut pas descendre en dessous de 0 PV.
 
-Lorsqu'il est inconscient il ne peut plus faire quoique ce soit
+Lorsqu'il est inconscient il ne peut plus faire quoique ce soit.
 
 S'il n'est pas soigné (sort de soin, potion …) dans l'heure qui suit, il meurt.
 
@@ -114,7 +122,7 @@ S'il n'est pas soigné (sort de soin, potion …) dans l'heure qui suit, il meur
 
 Un personnage peut tenter de prodiguer les premiers soins à un personnage inconscient aux portes de la mort
 
-- Cela requiert un test d'Intelligence (Médecine**) de difficulté 3 succès.
+- Cela requiert un test d'Intelligence (Médecine) de difficulté 3 succès.
     - En cas d'échec, le personnage est stabilité mais met 30 minutes à revenir à lui, avec 1 PV
     - En cas de réussite, il reprend connaissance presque immédiatement, et récupère 1d4° PV
 - La difficulté du test est augmenté à 5 succès si le dernier coup qu'à reçu le personnage était un coup critique

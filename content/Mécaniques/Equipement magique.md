@@ -4,19 +4,20 @@ draft: false
 ---
 # Armes
 
-|Désignation (arme corps à corps)|Type d'arme|Qualité|Dégât(s)|Type de dégât|Notes complémentaires|
-|---|---|---|---|---|---|
-|Hallebarde Morulith|Arme d'hast (2H)|**Epique**|2d6 + 3|Perforant ou Tranchant|Allonge : peut frapper un adversaire sans être au corps à corps (+1,5 m)|
-|Dague Morulith|Dague (1H)|**Inhabituel**|1d4 + 1|Perforant||
-|Croc Luisant|Dague (1H)|**Rare**|1d4 + 2|Perforant|La cible doit faire un jet d'Endurance à 3 succès : en cas d'échec, subit 3 points de dégâts par tour pendant 4 tours|
-|Vive Dague|Dague (1H)|**Epique**|1d4 + 3|Perforant|Si lors d'une attaque le test d'attaque échoue, peut être relancé une fois|
-|Ecrase-patate|Masse (2H)|**Rare**|1d12 + 2|Contondant|Un coup sur le sol provoque un tremblement. Les créatures avoisinantes doivent réussir un test **d'Agilité** à 1 succès pour ne pas tomber|
-|Epée courte Morulith|Epée (1H)|**Inhabituel**|1d6 + 1|Tranchant||
-|Croc de Serpent|Epée (1H)|**Rare**|1d6 + 2|Tranchant|La cible doit faire un jet d'Endurance à 3 succès : en cas d'échec, subit 3 points de dégâts par tour pendant 4 tours|
-|Bâton torche gobelin|Bâton (2H)|**Rare**|1d4 + 2|Contondant|Peux s'illuminer comme une torche. Permet la relance d'un dé lors d'un test de magie lié à la [Voie du feu](/doku.php?id=regles:voies-disponibles:voie-du-feu "regles:voies-disponibles:voie-du-feu")|
-|Epée runique de feu|Epée batarde (2H)|**Epique**|1d8 / 2d8 + 3|Tranchant|A l'activation, l'épée prendre feu, ajoutant +1d4 de dégâts à l'impact|
-|Rapière Ohberen|Rapière (1H)|**Rare**|1d6 + 2|Perforant|Sur dé de dégât maximum, et sur échec de Endurance + Constitution à 3 succès de la cible, assomme pendant 1 tour|
-|Draconis Loa : Rubis|2 x Epée courte (1H)|**Légendaire**|1d6 + 5 (x2)|Tranchant|Effets inconnus|
+| Désignation (arme corps à corps) | Type d'arme          | Qualité        | Dégât(s)      | Type de dégât          | Notes complémentaires                                                                                                                                                                                 |
+| -------------------------------- | -------------------- | -------------- | ------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hallebarde Morulith              | Arme d'hast (2H)     | **Epique**     | 2d6 + 3       | Perforant ou Tranchant | Allonge : peut frapper un adversaire sans être au corps à corps (+1,5 m)                                                                                                                              |
+| Dague Morulith                   | Dague (1H)           | **Inhabituel** | 1d4 + 1       | Perforant              |                                                                                                                                                                                                       |
+| Croc Luisant                     | Dague (1H)           | **Rare**       | 1d4 + 2       | Perforant              | La cible doit faire un jet d'Endurance à 3 succès : en cas d'échec, subit 3 points de dégâts par tour pendant 4 tours                                                                                 |
+| Vive Dague                       | Dague (1H)           | **Epique**     | 1d4 + 3       | Perforant              | Si lors d'une attaque le test d'attaque échoue, peut être relancé une fois                                                                                                                            |
+| Ecrase-patate                    | Masse (2H)           | **Rare**       | 1d12 + 2      | Contondant             | Un coup sur le sol provoque un tremblement. Les créatures avoisinantes doivent réussir un test **d'Agilité** à 1 succès pour ne pas tomber                                                            |
+| Epée courte Morulith             | Epée (1H)            | **Inhabituel** | 1d6 + 1       | Tranchant              |                                                                                                                                                                                                       |
+| Croc de Serpent                  | Epée (1H)            | **Rare**       | 1d6 + 2       | Tranchant              | La cible doit faire un jet d'Endurance à 3 succès : en cas d'échec, subit 3 points de dégâts par tour pendant 4 tours                                                                                 |
+| Bâton torche gobelin             | Bâton (2H)           | **Rare**       | 1d4 + 2       | Contondant             | Peux s'illuminer comme une torche. Permet la relance d'un dé lors d'un test de magie lié à la [Voie du feu](/doku.php?id=regles:voies-disponibles:voie-du-feu "regles:voies-disponibles:voie-du-feu") |
+| Epée runique de feu              | Epée batarde (2H)    | **Epique**     | 1d8 / 2d8 + 3 | Tranchant              | A l'activation, l'épée prendre feu, ajoutant +1d4 de dégâts à l'impact                                                                                                                                |
+| Rapière Ohberen                  | Rapière (1H)         | **Rare**       | 1d6 + 2       | Perforant              | Sur dé de dégât maximum, et sur échec de Endurance + Constitution à 3 succès de la cible, assomme pendant 1 tour                                                                                      |
+| Draconis Loa : Rubis             | 2 x Epée courte (1H) | **Légendaire** | 1d6 + 5 (x2)  | Tranchant              | Effets inconnus                                                                                                                                                                                       |
+| Draconis Loa : Emeraude          | Javeline             | **Légendaire** | ???           | Perforant              | Effets complets inconnus                                                                                                                                                                              |
 
 | Désignation (arme à distance) | Qualité        | Portée | Dégât(s) | Type de dégât | Notes complémentaires                  |
 | ----------------------------- | -------------- | ------ | -------- | ------------- | -------------------------------------- |
