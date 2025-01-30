@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"efe2fae562931444","x":-1000,"y":-60,"width":440,"height":3280,"color":"4","type":"group","label":"Clan Pestilens"},
+		{"id":"4ef326ee14fcf6c5","type":"text","text":"# Conseil Noir de Skarnoss","x":-75,"y":-430,"width":350,"height":140},
+		{"id":"e743cdc61dcc987f","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Description.md","subpath":"#Eglise de Hazzak","x":-980,"y":-850,"width":400,"height":560},
+		{"id":"7f4f3e255e8ccc37","type":"file","file":"quartz/content/Personnages/PNJ/Draconique/Vaal Hazzak.md","x":-980,"y":-1490,"width":400,"height":400},
+		{"id":"b972683f5b714130","x":-980,"y":-40,"width":400,"height":580,"type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md"},
+		{"id":"a3e0668c8e12b0b2","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Grand Poxis, le seigneur Pestiféré Suprême","x":-980,"y":600,"width":400,"height":280},
+		{"id":"675299c0915d6e30","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Les Archi-Pestes, le Conseil Suprême du clan","x":-980,"y":940,"width":400,"height":440},
+		{"id":"b77cbb74880cfab6","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Maîtres Fétides","x":-980,"y":1740,"width":400,"height":320},
+		{"id":"66d1a9e3ca69104e","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Porteurs de Vermine","x":-980,"y":2120,"width":400,"height":320},
+		{"id":"4c3399665801658f","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Vermine-Fange","x":-980,"y":2500,"width":400,"height":320},
+		{"id":"8b080e5b6dfedb90","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Rats-Pusillanimes","x":-980,"y":2880,"width":400,"height":320},
+		{"id":"7bfcce6e436a0769","type":"file","file":"quartz/content/Factions/Kratorea/Empire Skarnoss/Clan Pestilens.md","subpath":"#Prêtre de la vermine-peste","x":-980,"y":1440,"width":400,"height":240}
+	],
+	"edges":[
+		{"id":"e88153cbd09ba324","fromNode":"7f4f3e255e8ccc37","fromSide":"bottom","toNode":"e743cdc61dcc987f","toSide":"top"},
+		{"id":"1b3c2e638c47fd6a","fromNode":"e743cdc61dcc987f","fromSide":"right","toNode":"4ef326ee14fcf6c5","toSide":"left"},
+		{"id":"286758a1c7a3a97c","fromNode":"b972683f5b714130","fromSide":"bottom","toNode":"a3e0668c8e12b0b2","toSide":"top"},
+		{"id":"c1bee73c63257745","fromNode":"a3e0668c8e12b0b2","fromSide":"bottom","toNode":"675299c0915d6e30","toSide":"top"},
+		{"id":"881f9f7e54fe8700","fromNode":"675299c0915d6e30","fromSide":"left","toNode":"7bfcce6e436a0769","toSide":"left"},
+		{"id":"9340c3e6af25ac0e","fromNode":"675299c0915d6e30","fromSide":"left","toNode":"b77cbb74880cfab6","toSide":"left"},
+		{"id":"00591caa87fab346","fromNode":"675299c0915d6e30","fromSide":"left","toNode":"66d1a9e3ca69104e","toSide":"left"},
+		{"id":"4f1528f6479158a5","fromNode":"675299c0915d6e30","fromSide":"left","toNode":"4c3399665801658f","toSide":"left"},
+		{"id":"6ccee9ef62e4d6f2","fromNode":"675299c0915d6e30","fromSide":"left","toNode":"8b080e5b6dfedb90","toSide":"left"},
+		{"id":"4a214436756ee303","fromNode":"efe2fae562931444","fromSide":"top","toNode":"4ef326ee14fcf6c5","toSide":"bottom"}
+	]
+}
