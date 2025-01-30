@@ -7,6 +7,13 @@ tags:
 # Images à générer
 - [ ] [[Bokor]]
 - [ ] [[Feuillure]]
+- [ ] [[Serpivide]]
+- [ ] [[Luciorne]]
+- [ ] [[Ombreglans]]
+- [ ] [[Rince-liane]]
+- [ ] [[Griffe-pierre]]
+- [ ] [[Végélytres]]
+- [ ] [[Skavens#Skaven ingénieur]]
 
 # Foundry
 - [ ] Implémenter liste des glyphes
@@ -21,3 +28,7 @@ tags:
 - [ ] [[Voie de l’Enchanteur]]
 - [ ] [[Voie du Marchand]]
 - [ ] Finir la map (non urgent)
+
+# Scénario
+## 10 - Un atterrissage mouvementé
+- [ ] Bande son
