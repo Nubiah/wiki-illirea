@@ -18,7 +18,7 @@ Le personnage choisit une cible située à moins de 30 m. Si son attaque magique
 Le personnage lève un brouillard dense autour de lui (sphère centrée sur lui même de 20 m de diamètre). S’il maintient sa concentration chaque tour il peut continuer à augmenter le rayon de la zone de 10 m par round suivant (pendant 3 tours max). 
 Une fois qu’il cesse l’incantation, le brouillard reste INT tours en place.
 ## 4 - Souffle glacial (A)
-Le personnage ouvre la bouche et souffle un blizzard glacial et des éclats de glace tranchants. Le sort affecte toutes les créatures (alliées comprises) dans un cône approximatif de 10 m de long sur 5 m de large à son extrémité. Les victimes subissent 4d4° + INT dégâts et sont ralenties pour un round si elles ratent un test de **Constitution** de difficulté 2. Sinon, elles subissent seulement la moitié des dégâts et ne sont pas ralenties.
+Le personnage ouvre la bouche et souffle un blizzard glacial et des éclats de glace tranchants. Le sort affecte toutes les créatures (alliées comprises) dans un cône approximatif de 10 m de long sur 5 m de large à son extrémité. Les victimes subissent 4d4° + INT dégâts et sont ralenties pour un round si elles ratent un test de **Constitution** de difficulté 3. Sinon, elles subissent seulement la moitié des dégâts et ne sont pas ralenties.
 ## 5 - L'eau, la plus douce des choses, peut éroder la plus dure des pierres (A)
 **Une fois par jour**, le personnage peut infuser l’eau primordiale dans son corps pendant INT minutes.
 

@@ -24,4 +24,4 @@ Une fois par jour, lorsque le personnage tombe à 0 PV, il se relève, nimbé d�
 
 ## 5 - Rétablissement
 
-Une fois par jour, le personnage peut soigner un nombre de créature égal à son INT. Chaque patient obtient les mêmes effets qu’un sort de _Récupération majeure_. Ce sort ne peut être lancé en combat, et prend quelques minutes à être lancé. 
+Une fois par jour, le personnage peut soigner un nombre de créature égal à son **INT**. Chaque patient obtient les mêmes effets qu’un sort de _Récupération majeure_. Ce sort ne peut être lancé en combat, et prend quelques minutes à être lancé. 

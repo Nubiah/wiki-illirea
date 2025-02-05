@@ -8,9 +8,9 @@ tags:
 ---
 ## 1 - Armes de prédilection
 
-La sentinelle choisit une catégorie d'armes de prédilection parmi épées, haches, masses, lances, et enfin armes de jet et il gagne +1 dégâts lorsqu'il utilise une arme de cette catégorie.
+Le personnage choisit une catégorie d'armes de prédilection parmi épées, haches, masses, lances, et enfin armes de jet et il gagne +1 dégâts lorsqu'il utilise une arme de cette catégorie.
 
-De plus, il ajoute +2 succès à tous les tests liés à ce type d'arme (hors combat).
+De plus, il ajoute +2 succès à tous les tests liés à ce type d'arme (**hors combat**).
 
 ## 2 - Science du critique
 

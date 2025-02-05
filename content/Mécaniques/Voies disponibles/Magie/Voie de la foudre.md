@@ -13,12 +13,11 @@ Pendant toute la durée du sort, une créature qui le blesse par une attaque de 
 De plus, il peut utiliser une action d’attaque à chaque round pour délivrer une décharge électrique (*test d’attaque magique*, portée 10 m) infligeant 1d4° dégâts de foudre. Les dégâts passent à 2d4° au rang 4 dans cette voie.
 ## 2 - Foudre (A)
 Le personnage produit un éclair sur une ligne de 10 m. Toutes les créatures (alliées comprises) sur la trajectoire subissent 2d4° + INT dégâts de foudre, ou seulement la moitié pour celles qui réussissent un test d’**Agilité + Acrobatie difficulté 4**.
-## 3 - Bourrasque (A)
-Le personnage prend une grande inspiration et souffle une terrible bourrasque. Toutes les créatures (alliées comprises) face à lui dans un cône de 10 m de long sur 5 m de large doivent faire un test de **Force** difficulté 2 (4 au rang 4 dans la voie) ou être renversées et repoussées en arrière à une distance qui dépend de leur taille.
-- Très petite à moyenne : 20 m, subit 3d4° dégâts
-- Grande : 10 m, subit 2d4° dégâts
-- Enorme : subit 1d4°
-- Colossale : aucun effet
+## 3 - Electrosensible (L)
+Le personnage est capable de se concentrer pour ressentir autour de lui les ondes électriques parcourant des êtres vivants ou des mécanismes (qui utiliseraient l’électricité pour fonctionner). Dans un rayon de **2 x INT** autour de lui, le personnage est capable de savoir qu’une créature se cache, y compris furtive ou camouflée, ou si un mécanisme est en tension. Il est capable de localiser très précisément la source qu’il a repéré. 
+
+- Dans le cas des mécanismes il est capable d’interférer avec le fonctionnement normal de celui-ci en y ajoutant une dose infime d’électricité. Le résultat dépend d’un test de magie.
+- Dans le cas d’un organisme, il est capable de paralyser complétement ou partiellement la cible en réalisant un test de magie opposé à un test de **Constitution + Endurance**.
 ## 4 - Appel de la foudre (A)
 Le personnage projette des traits de foudre sur toutes les cibles de son choix dans un rayon de 10 m autour de lui. Il fait un seul test d’attaque magique et toutes les créatures ciblées dont il atteint la Défense Magique subissent 3d4° + INT dégâts.
 ## 5 - Unlimited Power ! (A)

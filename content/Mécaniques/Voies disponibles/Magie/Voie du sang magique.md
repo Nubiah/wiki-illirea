@@ -7,7 +7,7 @@ tags:
   - soin
   - défense
 ---
-## 1 - Signe magique
+## 1 - Signe magique (A)
 
 Permet au personnage d'utiliser une magie rudimentaire au corps à corps, lié aux éléments dont les effets dépendent de la magie choisie.
 
@@ -20,9 +20,9 @@ Permet au personnage d'utiliser une magie rudimentaire au corps à corps, lié a
 |Terre|Inflige 2d4 dégâts. Assome si dégâts maximum.|
 |Eau|Soigne la cible de 1d4 point(s) de vie.|
 
-## 2 - Corps magique
+## 2 - Corps magique (A)
 
-Le personnage infuse un élement dans son propre corps, gagnant des effets liés à l'élément pendant **Intelligence** tour(s).
+Le personnage infuse un élément dans son propre corps, gagnant des effets liés à l'élément pendant **Intelligence** tour(s).
 
 |Element|Effet|
 |---|---|

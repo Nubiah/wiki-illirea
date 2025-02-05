@@ -17,9 +17,10 @@ tags:
 
 # Foundry
 - [ ] Implémenter liste des glyphes
+- [ ] Basculer d’un système à l’autre
 
 # Divers
-- [ ] **Equilibrage général**
+- [x] **Equilibrage général**
 - [ ] *Règles concernant les voies de prestige & les créer*
 - [ ] **Agrandir un peu la liste des glyphes**
 - [ ] [[Voie du Forgeron]]

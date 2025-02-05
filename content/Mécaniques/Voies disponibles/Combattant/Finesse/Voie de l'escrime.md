@@ -8,11 +8,14 @@ tags:
 ---
 ## 1 - Précision
 
-Le personnage peut remplacer sa **Force** par son **Agilité** pour ses tests de dégâts lorsqu’il emploie une arme légère à une main (les armes légères sont la dague, l’épée courte et la rapière).
+Le personnage peut remplacer sa **Force** par son **Agilité** pour ses tests de dégâts lorsqu’il emploie une arme légère à une main.
+> [!note] **Précisions**
+> Les armes légères sont la dague, l’épée courte et la rapière. Certaines armes portent l’attribut “Finesse”, les plaçant dans la catégorie des armes légères.
 
-## 2 - Feinte
+## 2 - Feinte (M)
 
-Le personnage effectue une attaque fictive pour déséquilibrer son adversaire et réalise ensuite une attaque mortelle. Faites un test opposé d’**Agilité** contre la **Perception** de votre adversaire à ce round. Au round suivant, vous obtenez un bonus en succès sur votre attaque égal a votre rang dans la voie de l’escrime sur votre première attaque au contact contre cet adversaire et, si votre feinte a réussi, +2d4° aux dégâts.
+Le personnage effectue une attaque fictive pour déséquilibrer son adversaire et réalise ensuite une attaque mortelle. Faites un test opposé d’**Agilité** contre la **Perception** de votre adversaire à ce round. 
+Au round suivant, en cas de réussite, vous obtenez un bonus de dégâts de 2d4°. 
 
 ## 3 - Intelligence du combat
 
