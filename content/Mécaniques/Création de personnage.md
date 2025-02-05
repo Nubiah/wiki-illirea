@@ -39,7 +39,6 @@ Ce qui donne le tableau suivant :
 |Combat|5 + 5 + Constitution|
 |Utilitaire|4 + 4 + Constitution|
 
-
 **Total de PV = 2 x (PV de la famille) + CON**
 
 ### Points de compétence
@@ -76,12 +75,9 @@ De plus, à partir du niveau 6 et tous les 3 niveaux suivants, son dé évolutif
 |9 à 11|d8|
 |12 à 14|d10|
 |15+|d12|
-
 ### Points de vie
 
 A chaque passage de niveau un personnage gagne un nombre de points de vigueur qui dépend des capacités qu'il acquiert. A chaque niveau la valeur de Constitution y est ajouté.
-
- 
 
 |Voies|Gain par niveau|
 |---|---|
@@ -90,9 +86,6 @@ A chaque passage de niveau un personnage gagne un nombre de points de vigueur qu
 |Utilitaire|4 + Constitution|
 |Combat|5 + Constitution|
 |Peuple|4 + Constitution|
-
- 
-
 **Si le joueur acquiert des capacités de deux familles différentes, c'est la moyenne des deux arrondie à l'inférieur qui est retenue.**
 
 ### Capacités & voies
@@ -107,8 +100,6 @@ L'obtention des nouvelles capacités doit respecter les règles suivantes :
 - les capacités de rang 3 et plus coûtent chacune 2 points de capacité
 - pour choisir une capacité de rang supérieur à 1 le personnage doit avoir acquis les capacités de rang inférieur
 - le personnage doit avoir atteint le niveau minimal fixé par le tableau suivant :
-
- 
 
 |Rang|1|2|3|4|5|
 |---|---|---|---|---|---|

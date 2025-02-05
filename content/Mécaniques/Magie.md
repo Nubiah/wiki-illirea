@@ -4,7 +4,7 @@ draft: false
 ---
 # Points de mana
 
-- Voir [Création de personnage](/doku.php?id=regles:creation-de-personnage "regles:creation-de-personnage")
+- Voir [[Création de personnage]]
 
 ## Dépense de points de mana
 
@@ -15,29 +15,27 @@ draft: false
 
 - Lorsqu'il n'a plus de points de mana, un personnage peut choisir de sacrifier son énergie vitale pour continuer à lancer des sorts. Pour chaque point de mana dépensé, il subit des dégâts égaux à un dé dépendant de son profil initial.
 
-|Voies|Dé de brûlure|
-|---|---|
-|Magique|D6|
-|Finesse|D8|
-|Combattant|D10|
+| Voies      | Dé de brûlure |
+| ---------- | ------------- |
+| Magique    | D4            |
+| Finesse    | D6            |
+| Combattant | D8            |
 
 - Il est impossible d'utiliser la brûlure de mana pour lancer un sort de soins.
 
 ### Concentration accrue
 
 - Lorsqu'il utilise un sort qui nécessite une action d'attaque (A) pour être lancé, le personnage peut se concentrer plus longtemps pour réduire le coût de ce sort de 2 PM. Cela lui coûte son tour.
-- Ne peut être utilisée pour réduire des sorts qui nécessite une action limitée
-
+- Ne peut être utilisée pour réduire des sorts qui nécessite une action limitée, de mouvement ou gratuite.
 ## Récupérer des points de mana
 
 - Lors d'un repos long, le personnage regagne l'ensemble des points de mana dépensé.
 - En dehors de ce repos quotidien, il existe deux moyens de regagner des points de mana :
 - Potion de mana
 - Utiliser une charge d'Evocation
-
 ### Evocation
 
-- Voir [Voie des mages](/doku.php?id=regles:voies-disponibles:voie-des-mages "regles:voies-disponibles:voie-des-mages")
+- Voir [[Voie des mages]]
 
 # Lancement du sort
 
@@ -106,15 +104,3 @@ draft: false
 | 95 - 96  |                                                                                                                                                                                                                                                                |
 | 97 - 98  | Vous êtes entouré d'une faible musique éthérée pendant une minute (10 tours). Elle a tendance à vous distraire et si vous tentez de lancer un sort dans la minute, vous devez d'abord lancer 1d6 : sur 1 vous écoutez la musique au lieu de lancer votre sort  |
 | 99 - 100 | La surchage de magie sauvage vous enlève tous vos points de vie, vous tombez dans l'inconscience. Vous succomberez si vous n'êtes pas sauvé dans l'heure qui suit                                                                                              |
-
-## Calcul des dégâts
-
-- Les dégâts des sorts magiques sont fonction du rang atteint dans la voie d'élementaire du sort
-
-|Rang dans la voie|Dégât par point de mana dépensé|
-|---|---|
-|Magie simple|1d4°|
-|Magie avancée|1d4°+2|
-|Maîtrise magique|2d4°|
-
-- Le mage a également la possibilité de choisir d'utiliser un de ses points de mana non pas pour augmenter les dégâts du sort, mais pour toucher deux cibles proches (quelques mètres).
