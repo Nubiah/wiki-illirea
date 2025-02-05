@@ -32,7 +32,7 @@ Le personnage augmente sa valeur d’**Agilité** de +1.
 
 L'usage de Pas de danse éthéré n'est plus limité pendant le combat.
 
-De plus, il devient possible lorsqu'il est au corps à corps d'une créature s’il saute vers une autre créature. Le personnage ne peut pas sauter derrière une créature dont il est la cible.
+De plus, il devient possible lorsqu'il est au corps à corps d'une créature s’il saute vers une créature dont il n’est pas la cible (y compris celle au corps à corps si elle ne le cible pas). 
 
 Lorsque le personnage utilise Pas de danse éthéré, il laisse à son emplacement de départ un clone magique. Ce clone tentera de répliquer la prochaine attaque du joueur sur une créature ennemi proche avant de disparaitre. 
 Il disparait de toutes manières si aucun cible n'est à sa portée d'attaque.
