@@ -10,7 +10,9 @@ tags:
 - Tous les joueurs ont fait un rêve particulier où ils voyaient une sorte de silhouette dans l'ombre d'une pièce d'un château, qui vient vers eux et leur dit en ouvrant des yeux d'un or étincelant "Vous devez me rejoindre au plus vite Illiréen (il insiste sur ce mot). Trouver [[Luminara]], nous avons à discuter"
 ### Le réveil
 
-* Test de **Constitution** + **Endurance**. 
+> [!check] **Constitution + Endurance**
+> La plus grande réussite se souvient d’élément de la chute. Il se souvient également s’être réveillé après l’impact avec le sol, mais complétement éclaté. Des humanoïdes l’avaient encerclés, il avait tenté de fuir mais il ne souvient plus très bien comment il était retombé inconscient. 
+
   Le groupe se réveille avec le roulis de roue sur du sable. Chaque joueur est dans une cage, nauséeux. Le véhicule se déplace, tirée par un dragon à six pattes. Il fait chaud, très chaud. Autour d’eux se déroule un désert de sable terriblement aride. D’autres Xu’Keen marchent autour du chariot, certains sont même sur une sorte de monture, des [[Kragorre]].
 
 > [!warning] Notes
@@ -35,12 +37,12 @@ tags:
 	                - Les Salamar vivent en petites communautés et ne se mélangent pas aux autres peuples
 				- [[Sess]] connait très peu la région, elle n’est pas dans son environnement. Elle vient des iles des Brumécailles et n’en ai que rarement sortie.
 				- Elle cherche [[Bokor]], un ami qu’elle a perdu, mais s’est fait capturée avant de le trouver
+				- Elle peut leur apprendre que les joueurs sont endormis depuis presque une bonne journée
 - Soudain, une discussion entre deux Xu’Keen vient les interrompre. Leur langage est assez rude, et surtout incompréhensible des joueurs. 
 - [[Sess]] intervient dans l’esprit de [[Reptar]]. “Je connais un peu leur langage, ils sont entrain de réfléchir à ce qu’ils vont bien pouvoir faire de tant d’argent après nous avoir vendu”
 - Plusieurs heures se passent. [[Sess]] peut parler de tout ce qu’elle sait, elle est presque trop pipelette. 
 ### L’arrivée de l’Empereur des Sable
-- [[Sess]] pose la main sur les écailles de [[Reptar]]. Elle lui dit d’un ton enjoué “Regarde Ti’tar, un [[Empereur des Sables]] ! [[Zhyma]] m’en a déjà parlé dans ses contes ! La légende veut qu’ils soient insatiables et dévorent toutes traces de vie autour d’eux. Il va peut être nous aider à nous enfuir !”
-- https://youtu.be/y81QChFD6bg
+- [[Sess]] pose la main sur les écailles de [[Reptar]]. Elle lui dit d’un ton enjoué “*Regarde Ti’tar, un [[Empereur des Sables]] ! [[Zhyma]] m’en a déjà parlé dans ses contes ! La légende veut qu’ils soient insatiables et dévorent toutes traces de vie autour d’eux. Il va peut être nous aider à nous enfuir !*”
 - Soudain, avant même que [[Reptar]] ait pu suivre le call de [[Sess]], un cri vient perturber le silence ambiant. Les Xu’Keen vont volte face en même temps que les joueurs. L’un des leurs vient de se faire attraper par une gigantesque créature qui semble nager dans le sol. 
 	- A proximité de l’Empereur on voit le sable vibrer, lui permettant de “nager" dans le sol
 - C’est la panique, tous les Xu’Keen se mettent à courir pour leur vie. Les piétons n’arrivent pas à suivre le rythme du chariot et des cavaliers et tentent par tous les moyens de s’accrocher au chariot ou à des montures mais les Xukeen sur ces véhicules se battent pour les virer
@@ -62,7 +64,7 @@ tags:
 ## Sauvetage d’un ami
 ### Retrouver la trace de [[Bokor]]
 
->[!warning] Notes
+>[!warning] **Notes**
 >Si les joueurs veulent se rendre à [[Sularia]] pour chercher leurs compagnons, [[Sess]] leur rappelle que pour l’instant ils sont très faibles et que cela va être compliqué pour eux de continuer. Elle ne les accompagnera pas dans cette direction
 
 - [[Sess]] est capable de les emmener dans son clan, les Brumécailles, mais pour cela ils doivent d’abord retrouver son ami [[Bokor]] et leur transport, son ami [[Kutha]]
@@ -72,11 +74,16 @@ tags:
 - Elle sait qu'il a été emmené à [[Qirina]], une petite cité Xu Keen. Elle a beaucoup plus de valeur que son ami, ce qui explique qu’elle ait été emmené à [[Sularia]]
 ### [[Qirina]]
 - C’est une petite ville, pas vraiment conçue pour être défendue mais plus comme un comptoir d’échange
+	- Une zone semble néanmoins plus protégée que les autres, c’est là où sont enfermés les prisonniers / esclaves
 - Quelques patrouilles sont en ville mais rien de bien fou
-- L’idée est de s’infiltrer de nuit pour permettre de trouver et de libérer Brokor
+- L’idée est de s’infiltrer de nuit pour permettre de trouver et de libérer [[Bokor]]
 - [[Sess]] conseille à [[Reptar]] de rester cacher la journée, les humains n’attireront pas l’attention
-- Elle donne une image mentale au groupe, on dirait vaguement une ressemblance avec les Reptiliens, mais en beaucoup plus frêle et difforme
-- L’objectif est d’envoyé le groupe de 3 humains de jour pour faire du repérage et peut être localiser Brokor.
+> [!warning] **Informations pendant la journée**
+> - Dans la taverne un groupe de nomade est entrain de discuter d’une guerre qui aurait repris au nord depuis quelques semaines. Il ne sait pas trop quels camps sont vraiment engagés mais il sait par contre que la [[Royauté de Svern]] est à la défense. Il s’en moque ouvertement, ceux-ci gênant le trafic d’esclaves. 
+> - A l’entrée de la ville se trouve une sorte de petit point d’eau avec des attaches pour dragon. A coté se trouve un kiosque où un vendeur se trouve avec un [[Kragorre]]. Ce dernier semble plus mort que vivant mais le marchand essaie de le vendre aux joueurs. Le kiosque s’est fait dévalisé ses montures, une chasse au dragon légendaire est entrain de commencer. Si les joueurs creusent un peu, ils apprennent qu’il s’agirait d’un [[Obsidien]], apparu à quelques jours de chevauchée d’ici. Une telle bête est inestimable tant elle est d’une rareté absurde. Il irait bien aussi essayer d’avoir sa part mais… *il montre sa jambe de bois*
+> - Dans la taverne, il y a un panneau affichant des jobs : l’un d’eux est “Matelot pour le voyage de [[Sularia]] vers [[Keruga]]” une autre cité XuKeen
+- Elle donne une image mentale au groupe, on dirait vaguement une ressemblance avec les Reptiliens, mais en beaucoup plus frêle et difforme. Elle suggère d’essayer de ne pas attirer l’attention, histoire qu’ils ne cherchent pas à faire disparaitre les esclaves & divers ventes
+- L’objectif est d’envoyé le groupe de 3 humains de jour pour faire du repérage et peut être localiser [[Bokor]].
 	- Les XuKeen semblent pouvoir parler un commun qui ressemble beaucoup à celui d’Illirea
 > [!note] Phase d’infiltration de nuit
 - Une fois [[Bokor]] libérer le groupe court vers l’extérieur en suivant [[Sess]] qui les mène vers le Détroit de Jorita
@@ -229,4 +236,4 @@ tags:
 ### Retour chez les Brumécailles
 - Le groupe est accueillis de la même manière que la première fois, comme s’ils étaient maintenant des Salamars
 - [[Myrelis]] s’empresse de récupérer les cristaux de magie de la part de [[Sess]] pour en lancer la distillation
-- Si les joueurs parlent de [[Luminara]], seule [[Zhyma]] sait quelque chose. Elle leur explique que ce nom désigne une cité bénie de la Grande Mère, la seule qui aurait survécu de l’Ancien temps. Cette cité se trouve très loin au nord, dans les terres du [[Royaume de Svern]]. Il est impossible d’y aller directement depuis l’océan, ils devront passé par les terres. Il y a néanmoins une enclave du royaume plus au sud, peut être seront ils capables de les aider. Mais y aller retarde d’autant plus leur arrivée à [[Luminara]]
+- Si les joueurs parlent de [[Luminara]], seule [[Zhyma]] sait quelque chose. Elle leur explique que ce nom désigne une cité bénie de la Grande Mère, la seule qui aurait survécu de l’Ancien temps. Cette cité se trouve très loin au nord, dans les terres du [[Royauté de Svern|Royaume de Svern]]. Il est impossible d’y aller directement depuis l’océan, ils devront passé par les terres. Il y a néanmoins une enclave du royaume plus au sud, peut être seront ils capables de les aider. Mais y aller retarde d’autant plus leur arrivée à [[Luminara]]

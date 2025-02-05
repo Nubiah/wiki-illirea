@@ -6,32 +6,33 @@ tags:
   - terre
   - dégâts
 ---
-## 1 - Magie simple
+## 1 - Toucher pétrifiant (L)
+Au contact, le personnage peut commencer à pétrifier sa cible en la touchant. **Il faut rester en contact 3 tours** (à condition de réussir le test d’attaque chaque tour) pour pétrifier complétement une cible. Chaque tour le lanceur doit réussir un test d’attaque magique. 
+Ne fonctionne pas contre les créatures colossales. 
+## 2 - Lance-pierre (A)
+Le personnage choisit une cible située à moins de 20 m. Si son attaque magique réussit, le lanceur lui lance un rocher, morceaux de terre… et la cible subit 2d4° + INT dégâts.
+Au rang 4 dans la voie, les créatures Très petite à moyenne subissent le double de dégâts.
+## 3 - Litomorphose
+Le personnage peut modeler la pierre par sa simple volonté (portée 10 m). 
+Il affecte un volume maximal de 1 m3 par niveau et lui donne la forme qu’il désire.
+La transformation dure INT heures.
+> [!note] **Exemple**
+> Au niveau 10, il peut percer un tunnel de 1 m de côté pour environ 10 m de long, ou au contraire créer une arche de pierre de 1 m de large pour 10 m de long au dessus d’un précipice.
+## 4 - Séisme (A)
+Le personnage provoque un remous sur un disque de 15 m de diamètre. Toutes créatures (alliées comprises) s’y trouvant doivent réussir un test d’**Agilité + Acrobatie** pour ne pas être renversées. En cas de chute, elles subissent 3d4° dégâts. 
+Les cibles enfouies sous la zone du remous subissent le double de dégâts.
+Ne fonctionne pas contre les cibles colossales (3d4° si elles sont enfouies).
+## 5 - I will tear your world apart ! (A)
+**Une fois par jour**, le personnage peut infuser la terre primordiale dans son corps pendant INT minutes.
 
-Le mage est capable de manipuler l’énergie l’environnant pour incanter des sorts simples à base de terre. Les sorts ne peuvent dépasser 2 points de mana.
+Ce faisant, il ne peut alors utilisé que des capacités de cette voie et il ne peux plus parler. Pendant la durée du sort, il est recouvert d’une couche de terre durcie, lui offrant 3 dès de défense supplémentaires. 
 
-_Exemple : pilier de terre mineur, lancer de rocher…_
+Il devient immunisé aux dégâts de terre.
 
-## 2 - Brûlure de mana
+Il gagne également alors une nouvelle attaque de corps à corps “Frappe magique”, occasionnant 2d4° dégâts de terre à ses adversaires (*test d’attaque magique*).
 
-Voir [[Magie]].
-
-## 3 - Magie avancée
-
-Le mage peut utiliser la magie plus aisément, et est capable de produire des sorts plus précis, plus perfectionnés. Il peut alors utiliser des sorts jusqu’à 4 points de mana par incantation.
-
-Les sorts à base de Terre gagnent également un trait spécial : en cas de dé de dégâts maximum, et en cas d'échec à un test de **Constitution** + **Endurance** de la cible, assomme pendant 1 tour.
-
-_Exemple : pilier de terre, mur de pierre…_
-
-## 4 - Economie magique
-
-Tous les sorts réussit de cet élément lui rendent 1/4 du coût en mana (arrondis à l’entier inférieur).
-
-## 5 - I will tear your world apart !
-
-Le mage devient un géomancien accompli et ne fait plus qu’un avec l’élément. Il peut à chaque test en lien avec l’élément terre, relancer 2 dès (hors dès spéciaux).
-
-De plus, il n’a plus de limite de mana en ce qui concerne les sorts lancés.
-
-Enfin, il a la possibilité d'utiliser cet élément pour l'infuser dans une autre voie élémentaire **au moins au rang 3.**
+> [!note] **Lexique**
+> - A : nécessite une action d’attaque pour être utilisé
+> - L : nécessite que le personnage ne fasse que cette action pendant le tour (mouvement compris)
+> - M : nécessite une action de mouvement
+> - G : action gratuite

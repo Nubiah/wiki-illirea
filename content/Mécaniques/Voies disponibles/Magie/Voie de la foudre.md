@@ -6,32 +6,32 @@ tags:
   - foudre
   - dégâts
 ---
-## 1 - Magie simple
+## 1 - Sous-tension (A)
+Le personnage se charge d’énergie électrique pour INT minutes.
+Pendant toute la durée du sort, une créature qui le blesse par une attaque de contact ou le touche reçoit une décharge infligeant 1d4° dégâts.
 
-Le mage est capable de manipuler l’énergie l’environnant pour incanter des sorts simples à base de foudre. Les sorts ne peuvent dépasser 2 points de mana.
+De plus, il peut utiliser une action d’attaque à chaque round pour délivrer une décharge électrique (*test d’attaque magique*, portée 10 m) infligeant 1d4° dégâts de foudre. Les dégâts passent à 2d4° au rang 4 dans cette voie.
+## 2 - Foudre (A)
+Le personnage produit un éclair sur une ligne de 10 m. Toutes les créatures (alliées comprises) sur la trajectoire subissent 2d4° + INT dégâts de foudre, ou seulement la moitié pour celles qui réussissent un test d’**Agilité + Acrobatie difficulté 4**.
+## 3 - Bourrasque (A)
+Le personnage prend une grande inspiration et souffle une terrible bourrasque. Toutes les créatures (alliées comprises) face à lui dans un cône de 10 m de long sur 5 m de large doivent faire un test de **Force** difficulté 2 (4 au rang 4 dans la voie) ou être renversées et repoussées en arrière à une distance qui dépend de leur taille.
+- Très petite à moyenne : 20 m, subit 3d4° dégâts
+- Grande : 10 m, subit 2d4° dégâts
+- Enorme : subit 1d4°
+- Colossale : aucun effet
+## 4 - Appel de la foudre (A)
+Le personnage projette des traits de foudre sur toutes les cibles de son choix dans un rayon de 10 m autour de lui. Il fait un seul test d’attaque magique et toutes les créatures ciblées dont il atteint la Défense Magique subissent 3d4° + INT dégâts.
+## 5 - Unlimited Power ! (A)
+**Une fois par jour**, le personnage peut infuser la foudre primordiale dans son corps pendant INT minutes.
 
-_Exemple : trait de foudre, contact foudroyant_
+Ce faisant, il ne peut alors utilisé que des capacités de cette voie et il ne peux plus parler. Une tempête se déclenche localement autour de lui, dans un rayon de 2 m. Toutes les cibles dans cette zone subissent alors 1d4° dégâts par tour.
 
-## 2 - Brûlure de mana
+Il devient immunisé aux dégâts de foudre.
 
-Voir [[Magie]].
+Il gagne également alors une nouvelle attaque de corps à corps “Frappe magique”, occasionnant 2d4° dégâts de foudre à ses adversaires (*test d’attaque magique*).
 
-## 3 - Magie avancée
-
-Le mage peut utiliser la magie élémentaire plus aisément, et est capable de produire des sorts plus précis, plus perfectionnés. Il peut alors utiliser des sorts jusqu’à 4 points de mana par incantation.
-
-Ses sorts de foudre gagnent également un trait spécial : en cas de dégâts maximum, le sort se réplique sur un cible à proximité.
-
-_Exemple : chaine d'éclair, pilier de foudre mineur_
-
-## 4 - Economie magique
-
-Tous les sorts réussit de cet élément lui rendent 1/4 du coût en mana (arrondis à l’entier inférieur).
-
-## 5 - Unlimited Power !
-
-Le mage devient un fulgomancien accompli et ne fait plus qu’un avec l’élément. Il peut à chaque test en lien avec l’élément foudre, relancer 2 dès (hors dès spéciaux).
-
-De plus, il n’a plus de limite de mana en ce qui concerne les sorts lancés.
-
-Enfin, il a la possibilité d'utiliser cet élément pour l'infuser dans une autre voie élémentaire **au moins au rang 3.**
+> [!note] **Lexique**
+> - A : nécessite une action d’attaque pour être utilisé
+> - L : nécessite que le personnage ne fasse que cette action pendant le tour (mouvement compris)
+> - M : nécessite une action de mouvement
+> - G : action gratuite

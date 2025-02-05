@@ -32,3 +32,7 @@ tags:
 # Scénario
 ## 10 - Un atterrissage mouvementé
 - [ ] Bande son
+
+# Idées
+- Ingénieur : bouclier d’une main, retransmission des dégâts avec l’autre
+- Dans la phase proche de l’Abysse, les joueurs sont chassés par des golems vénères (protecteur du labo)
