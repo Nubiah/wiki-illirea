@@ -1,6 +1,6 @@
 ---
 title: Ignavorn, dernier des Fyrmirs
-draft: true
+draft: false
 tags:
   - dragon
   - fyrmir

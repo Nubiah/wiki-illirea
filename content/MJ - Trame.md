@@ -79,9 +79,9 @@ tags:
 - L’idée est de s’infiltrer de nuit pour permettre de trouver et de libérer [[Bokor]]
 - [[Sess]] conseille à [[Reptar]] de rester cacher la journée, les humains n’attireront pas l’attention
 > [!warning] **Informations pendant la journée**
-> - Dans la taverne un groupe de nomade est entrain de discuter d’une guerre qui aurait repris au nord depuis quelques semaines. Il ne sait pas trop quels camps sont vraiment engagés mais il sait par contre que la [[Royauté de Svern]] est à la défense. Il s’en moque ouvertement, ceux-ci gênant le trafic d’esclaves. 
+> - Dans la taverne un groupe de nomade est entrain de discuter d’une guerre qui aurait repris au nord depuis quelques semaines. Il ne sait pas trop quels camps sont vraiment engagés mais il sait par contre que la [[Royauté de Svern]] est à la défense et semble même perdre du terrain. Il s’en moque ouvertement, ceux-ci gênant le trafic d’esclaves. 
 > - A l’entrée de la ville se trouve une sorte de petit point d’eau avec des attaches pour dragon. A coté se trouve un kiosque où un vendeur se trouve avec un [[Kragorre]]. Ce dernier semble plus mort que vivant mais le marchand essaie de le vendre aux joueurs. Le kiosque s’est fait dévalisé ses montures, une chasse au dragon légendaire est entrain de commencer. Si les joueurs creusent un peu, ils apprennent qu’il s’agirait d’un [[Obsidien]], apparu à quelques jours de chevauchée d’ici. Une telle bête est inestimable tant elle est d’une rareté absurde. Il irait bien aussi essayer d’avoir sa part mais… *il montre sa jambe de bois*
-> - Dans la taverne, il y a un panneau affichant des jobs : l’un d’eux est “Matelot pour le voyage de [[Sularia]] vers [[Keruga]]” une autre cité XuKeen
+> - Dans la taverne, il y a un panneau affichant des jobs : l’un d’eux est “Matelot pour le voyage de [[Sularia]] vers [[Keruga]]” une autre cité XuKeen à l’autre bout du monde
 - Elle donne une image mentale au groupe, on dirait vaguement une ressemblance avec les Reptiliens, mais en beaucoup plus frêle et difforme. Elle suggère d’essayer de ne pas attirer l’attention, histoire qu’ils ne cherchent pas à faire disparaitre les esclaves & divers ventes
 - L’objectif est d’envoyé le groupe de 3 humains de jour pour faire du repérage et peut être localiser [[Bokor]].
 	- Les XuKeen semblent pouvoir parler un commun qui ressemble beaucoup à celui d’Illirea
@@ -213,12 +213,25 @@ tags:
 
 - Le groupe finit par mettre la main sur le dernier cristal, ils en ont assez pour chaque joueur
 - La nature autour d’eux s’énerve et de plus en plus d’éclair tombent à proximité. Le vent est également bien plus violent et même [[Sess]] semble avoir perdu son assurance
+>[!check] **Perception** le nombre de succès détermine la façon de découvrir l’entrée
+>- Un trou mène à un couloir
+>- En bas se trouve plusieurs salles reliés par des couloirs, le groupe arrive dans l’un d’eux. Derrière eux le tunnel s’est effondré
+>- Des lumières essaient de s’allumer (comme sur [[Ymenos]]) mais la bonne moitié semble s’évaporer dans un petit claquement
+>- Dans les salles se trouvent des grandes cuves, assez grandes pour y mettre des humanoïdes
+>- Le groupe peut chercher la plupart sont vides
+>- Mais dans une salle, l’une des cuves contient un Skaven, visiblement mort
+>- Autour se trouve des bureaux avec des tonnes de notes complétement disparus avec le temps
+>- Un carnet de note est néanmoins en pas trop mauvais état, et est même lisible par endroit
+>	- “…cette espèce semble beaucoup mieux s’adapter que la précédente. Je pense même qu’il est possible d’en faire une … viable après la guerre… Ses capacités de reproduction sont prodigieuses…”
+>	- “Mon premier projet… se ranger du côté de [[Vorrshak]] et de …”
+>	- “Ils feront un parfait test pour ma nouvelle réussite. … force n’est en rien comparable mais leur…. fera pencher la victoire de mon côté”
+>	- Un nom figure à la fin “Hazzak, le grand bio-généticien”
 ### Retour en force
 - En revenant sur leur pas, le groupe avance sans pouvoir trop se parler, tant le bruit de la pluie est terrible
 > [!check] **Perception** 2 succès
 > - Des [[Skavens]] viennent dans leur direction, 3 ogres & une dizaine de légionnaire. Ils sont dirigés par un Skaven ne portant pas une armure commune. On dirait une sorte d’armure intégrale, le protégeant de toutes parts. A son bras droit est attaché trois lames. 
 > - Ils n’ont pas vraiment d’endroit où se cacher
-> - Sentant ce moment arrivé, [[Sess]] se retourne et pose sa main sur [[Bokor]] qui s’endors presque instantanément. “Il ne faut pas qu’il se batte” dit elle avant de s’équiper de son arc
+> - Sentant la bataille arriver, [[Sess]] se retourne et pose sa main sur [[Bokor]] qui s’endors presque instantanément. “Il ne faut pas qu’il se batte” dit elle avant de s’équiper de son arc
 
 > [!warning] **Combat**
 > - *10 légionnaires*

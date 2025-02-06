@@ -12,7 +12,7 @@ L’assassin gagne +2 succès à tous les tests de discrétion, de déguisement 
 
 ## 2 - Attaque sournoise (L)
 
-Une fois par combat et par cible, quand il attaque un adversaire *surpris* ou *de dos* avec une arme légère, l’assassin inflige +2d4° dégâts supplémentaires.
+Une fois par round, quand il attaque un adversaire *surpris* ou *de dos* avec une arme légère, l’assassin inflige +2d4° dégâts supplémentaires.
 Cette capacité gagne 1d4° de dégâts par rang 4 dans une voie de Finesse. 
 
 > [!note] **Lexique**

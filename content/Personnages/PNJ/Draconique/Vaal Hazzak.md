@@ -1,6 +1,6 @@
 ---
 title: Vaal Hazzak, premier dragon du fléau
-draft: true
+draft: false
 tags:
   - dragon
   - fléau

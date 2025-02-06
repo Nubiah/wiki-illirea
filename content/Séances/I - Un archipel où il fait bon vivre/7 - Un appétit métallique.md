@@ -48,7 +48,7 @@ A l'approche du groupe, les golems se mirent en fonctionnement pour protéger la
 Derrière la porte se trouvait une petite pièce sphérique, dans laquelle étaient 3 piédestaux, chacun orné d'un écrin d'une couleur spécifique.
 
 - A droite, un écrin vert avec des runes traduites par : "Cette Draconis Loa est sous la protection du vénérable [[Grenos, le grand Obsidien]]. Quiconque souhaite faire sien sa puissance doit s'attendre à être écraser par une montagne de tourment."
-- A gauche, un écrin bleu avec des runes traduites par : "Cette Draconis Loa est sous la protection du vénérable [[Mershack, la grande Pontianak]]. Quiconque souhaite faire sienne sa puissance doit s'attendre à subir la colère du ciel."
+- A gauche, un écrin bleu avec des runes traduites par : "Cette Draconis Loa est sous la protection du vénérable [[Mershak, la grande Pontianak]]. Quiconque souhaite faire sienne sa puissance doit s'attendre à subir la colère du ciel."
 - Et enfin en face, un écrin rouge avec des runes traduites par : "Cette Draconis Loa est sous la protection du vénérable [[Ignavorn, dernier des Fyrmirs]]. Quiconque souhaite faire sien sa puissance doit s'attendre à endurer une éternité en enfer."
 
 L'écrin vert portait autrefois une lance, et un bracelet, alors que le bleu portait une grande épée à deux mains. Les armes de l'écrin rouge étaient toujours là, deux belles épées courtes dont les lames étaient un mélange d'onyx et de métal rouge de braise, dont l'une des poignées était ornée d'une gemme sphérique rubis.
