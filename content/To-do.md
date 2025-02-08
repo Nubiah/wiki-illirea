@@ -7,17 +7,17 @@ tags:
 # Images à générer
 - [ ] [[Bokor]]
 - [ ] [[Feuillure]]
-- [ ] [[Serpivide]]
+- [x] [[Serpivide]]
 - [ ] [[Luciorne]]
-- [ ] [[Ombreglans]]
+- [x] [[Ombrelans]]
 - [ ] [[Rince-liane]]
-- [ ] [[Griffe-pierre]]
-- [ ] [[Végélytres]]
-- [ ] [[Skavens#Skaven ingénieur]]
+- [x] [[Griffe-pierre]]
+- [x] [[Végélytres]]
+- [x] [[Skavens#Skaven ingénieur]]
 
 # Foundry
 - [ ] Implémenter liste des glyphes
-- [ ] Basculer d’un système à l’autre
+- [x] Basculer d’un système à l’autre
 
 # Divers
 - [x] **Equilibrage général**

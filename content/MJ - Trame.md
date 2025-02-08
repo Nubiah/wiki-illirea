@@ -151,8 +151,8 @@ tags:
 - C’est à ce moment là que [[Myrelis]] s’approche des joueurs, chargée de ses instruments de glyphage. Elle porte une sorte de fiole d’un liquide légèrement brillant. 
 - Le glyphe prend la forme du dragon totem de chaque joueur
 	- [[Sherada]] : [[Fyrmirs]]
-	- [[Batman]] :
-	- [[Tuck]] :
+	- [[Batman]] : [[Djourab]]
+	- [[Tuck]] : ???
 	- [[Reptar]] : [[Pontianak]]
 ### A la recherche de Larmes de Cristal
 - Le lendemain matin, [[Sess]] réveille le groupe, toute équipée. Elle est toute excité d’aller en exploration. Les joueurs se rendent tous comptes qu’ils comprennent maintenant [[Sess]], sans avoir besoin d’un contact. Elle leur explique que lors du glyphage, qui est une sorte de pratique magique, le glypheur transmet une partie de son identité avec le glyphe, et que les plus avancée (c’est le cas de [[Myrelis]]) sont capables de telles prouesses

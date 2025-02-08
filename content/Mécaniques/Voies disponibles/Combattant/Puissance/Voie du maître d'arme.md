@@ -1,6 +1,6 @@
 ---
 title: Voie du maître d'arme
-draft: true
+draft: false
 tags:
   - force
   - dégâts
