@@ -1,6 +1,6 @@
 ---
 title: Bokor
-draft: true
+draft: false
 tags:
   - kratorea
   - salamar

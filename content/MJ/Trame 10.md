@@ -4,7 +4,7 @@ draft: true
 tags:
 ---
 # 10 - Un atterrissage mouvementé !
-## Sur la route de [[Sularia]]
+## Sur la route de [[quartz/content/Lieux/Kratorea/Sularia]]
 ### Introduction
 
 - Tous les joueurs ont fait un rêve particulier où ils voyaient une sorte de silhouette dans l'ombre d'une pièce d'un château, qui vient vers eux et leur dit en ouvrant des yeux d'un or étincelant "Vous devez me rejoindre au plus vite Illiréen (il insiste sur ce mot). Trouver [[Luminara]], nous avons à discuter"
@@ -32,7 +32,7 @@ tags:
             - Seul [[Reptar]] est en mesure de toucher la main de l'humanoïde
             - En cas de contact, une voix sonne dans la tête de [[Reptar]]
                 - "Je suis [[Sess]], enchanté de te rencontrer, drôle de petit dragon"
-                - [[Reptar]] peut répondre mentalement. [[Sess]] a été capturée par les [[Xu'keen]] depuis 4 jours alors qu'elle chassait à l'extérieur du village. Elle sait qu'ils sont tous emmené vers [[Sularia]], le marché d'esclave. Ils seront alors probablement vendu à diverses personnes les employant pour les champs ou les mines, voir à la chasse au dragon
+                - [[Reptar]] peut répondre mentalement. [[Sess]] a été capturée par les [[Xu'keen]] depuis 4 jours alors qu'elle chassait à l'extérieur du village. Elle sait qu'ils sont tous emmené vers [[quartz/content/Lieux/Kratorea/Sularia]], le marché d'esclave. Ils seront alors probablement vendu à diverses personnes les employant pour les champs ou les mines, voir à la chasse au dragon
                 - Elle ne connait pas [[Luminara]], mais elle pense que les anciens de son clan sauront lui répondre
 	                - Les Salamar vivent en petites communautés et ne se mélangent pas aux autres peuples
 				- [[Sess]] connait très peu la région, elle n’est pas dans son environnement. Elle vient des iles des Brumécailles et n’en ai que rarement sortie.
@@ -65,13 +65,13 @@ tags:
 ### Retrouver la trace de [[Bokor]]
 
 >[!warning] **Notes**
->Si les joueurs veulent se rendre à [[Sularia]] pour chercher leurs compagnons, [[Sess]] leur rappelle que pour l’instant ils sont très faibles et que cela va être compliqué pour eux de continuer. Elle ne les accompagnera pas dans cette direction
+>Si les joueurs veulent se rendre à [[quartz/content/Lieux/Kratorea/Sularia]] pour chercher leurs compagnons, [[Sess]] leur rappelle que pour l’instant ils sont très faibles et que cela va être compliqué pour eux de continuer. Elle ne les accompagnera pas dans cette direction
 
 - [[Sess]] est capable de les emmener dans son clan, les Brumécailles, mais pour cela ils doivent d’abord retrouver son ami [[Bokor]] et leur transport, son ami [[Kutha]]
 	- [[Bokor]] a eut la mauvaise idée de rester endormi sur un des Colossaeon qui l’a emmené proche du rivage de ces terres arides
 	  [[Sess]] est parti à sa recherche et l’a trouvé, mais c’est là qu’elle s’est fait capturer
 - [[Sess]] est une chasseuse hors pair, et elle arrive sans grande difficulté à les aiguiller vers le bon chemin. Elle ne tue absolument aucune créature non nécessaire, et n’abat une cible si et seulement si elle y est obligé
-- Elle sait qu'il a été emmené à [[Qirina]], une petite cité Xu Keen. Elle a beaucoup plus de valeur que son ami, ce qui explique qu’elle ait été emmené à [[Sularia]]
+- Elle sait qu'il a été emmené à [[Qirina]], une petite cité Xu Keen. Elle a beaucoup plus de valeur que son ami, ce qui explique qu’elle ait été emmené à [[quartz/content/Lieux/Kratorea/Sularia]]
 ### [[Qirina]]
 - C’est une petite ville, pas vraiment conçue pour être défendue mais plus comme un comptoir d’échange
 	- Une zone semble néanmoins plus protégée que les autres, c’est là où sont enfermés les prisonniers / esclaves
@@ -81,7 +81,7 @@ tags:
 > [!warning] **Informations pendant la journée**
 > - Dans la taverne un groupe de nomade est entrain de discuter d’une guerre qui aurait repris au nord depuis quelques semaines. Il ne sait pas trop quels camps sont vraiment engagés mais il sait par contre que la [[Royauté de Svern]] est à la défense et semble même perdre du terrain. Il s’en moque ouvertement, ceux-ci gênant le trafic d’esclaves. 
 > - A l’entrée de la ville se trouve une sorte de petit point d’eau avec des attaches pour dragon. A coté se trouve un kiosque où un vendeur se trouve avec un [[Kragorre]]. Ce dernier semble plus mort que vivant mais le marchand essaie de le vendre aux joueurs. Le kiosque s’est fait dévalisé ses montures, une chasse au dragon légendaire est entrain de commencer. Si les joueurs creusent un peu, ils apprennent qu’il s’agirait d’un [[Obsidien]], apparu à quelques jours de chevauchée d’ici. Une telle bête est inestimable tant elle est d’une rareté absurde. Il irait bien aussi essayer d’avoir sa part mais… *il montre sa jambe de bois*
-> - Dans la taverne, il y a un panneau affichant des jobs : l’un d’eux est “Matelot pour le voyage de [[Sularia]] vers [[Keruga]]” une autre cité XuKeen à l’autre bout du monde
+> - Dans la taverne, il y a un panneau affichant des jobs : l’un d’eux est “Matelot pour le voyage de [[quartz/content/Lieux/Kratorea/Sularia]] vers [[Keruga]]” une autre cité XuKeen à l’autre bout du monde
 - Elle donne une image mentale au groupe, on dirait vaguement une ressemblance avec les Reptiliens, mais en beaucoup plus frêle et difforme. Elle suggère d’essayer de ne pas attirer l’attention, histoire qu’ils ne cherchent pas à faire disparaitre les esclaves & divers ventes
 - L’objectif est d’envoyé le groupe de 3 humains de jour pour faire du repérage et peut être localiser [[Bokor]].
 	- Les XuKeen semblent pouvoir parler un commun qui ressemble beaucoup à celui d’Illirea
@@ -156,7 +156,7 @@ tags:
 	- [[Reptar]] : [[Pontianak]]
 ### A la recherche de Larmes de Cristal
 - Le lendemain matin, [[Sess]] réveille le groupe, toute équipée. Elle est toute excité d’aller en exploration. Les joueurs se rendent tous comptes qu’ils comprennent maintenant [[Sess]], sans avoir besoin d’un contact. Elle leur explique que lors du glyphage, qui est une sorte de pratique magique, le glypheur transmet une partie de son identité avec le glyphe, et que les plus avancée (c’est le cas de [[Myrelis]]) sont capables de telles prouesses
-- Pour trouver des Larmes de Cristal, il est nécessaire de sortir du territoire des Brumécailles, et de s’aventurer plus au nord, plus proche de la Grande Abysse. Il ne faut surtout pas les prendre à la main, le choc qui en découle peut être terrible. 
+- Pour trouver des Larmes de Cristal, il est nécessaire de sortir du territoire des Brumécailles, et de s’aventurer plus au nord, plus proche de la Grande Abysse. Il ne faut surtout pas les prendre à la main, le choc qui en découle peut être terrible.
 - Aucun des Salamars ne souhaitent les accompagner, ces terres étant maudites à leurs yeux par la Grande Mère. Seule [[Sess]] s’y risque. Après leur avoir souhaité bonne chance, le groupe part pour le nord.
 - Il faut moins d’une demi journée pour arriver jusqu’à un point de l’océan, et [[Sess]] utilise à nouveau son dispositif pour appeler [[Kutha]]
 - L’animal arrive quelques minutes après, tout content de retrouver [[Sess]]
@@ -196,7 +196,7 @@ tags:
 
 - [[Sess]] pose sa main sur le joueur le plus proche, et dit “J’ai déjà rencontré ces … humanoïdes, nous les avons repoussé d’une de nos îles. Leur dragon de transport ressemblait beaucoup à celui-ci, son squelette est toujours là bas.” Elle se retourne vers [[Bokor]]. “A ce moment là ils cherchaient à emmener [[Bokor]], que nous avons sauvé”
 - Elle commence à se déplacer silencieusement, à l’abri des arbres, en faisant signe au groupe de suivre
-- Il faut une trentaine de minute pour les contourner complétement, et le groupe peut reprendre leur route
+- Il faut une trentaine de minute pour les contourner complètement, et le groupe peut reprendre leur route
 - Des éclairs jaillissent parfois au dessus d’eux avec un fracas terrible
 - Plus loin, une structure semble émerger des arbres, construite avec les mêmes pierres noires étranges
 - [[Sess]] leur fait signe “C’est dans ces ruines que je trouve des Larmes de Cristal !”
@@ -234,7 +234,7 @@ tags:
 > - Sentant la bataille arriver, [[Sess]] se retourne et pose sa main sur [[Bokor]] qui s’endors presque instantanément. “Il ne faut pas qu’il se batte” dit elle avant de s’équiper de son arc
 
 > [!warning] **Combat**
-> - *10 légionnaires*
+> - *9 légionnaires*
 > - *3 ogres*
 > - *1 ingénieur*
 > - Pendant le combat, au bout d’un moment [[Sess]] est mise en difficulté par un ogre. Sortant de sa torpeur [[Bokor]] se métamorphose en une sorte d’aberration ressemblant à un dragon sans aile, très fort musculairement, dans un “Bokor détruit”
@@ -243,10 +243,17 @@ tags:
 > - [[Sess]] crie aux joueurs que [[Bokor]] ne fait plus la différence entre ami et ennemi, qu’il va falloir le calmer
 
 - Une fois le combat fini, le groupe est libre de looter les cadavres. Seul l’ingénieur possède quelque chose à récupérer. Son armure est bien entendu complétement inutilisable et en morceaux. Néanmoins il possède une lettre sur lui, écrite en Skaven. Un nom semble lisible à la fin “Xirkran”
-- **Si jamais le groupe veut se faire le reste des Skavens, il reste encore 17 légionnaires et 3 ogres**
+- **Si jamais le groupe veut se faire le reste des Skavens, il reste encore 22 légionnaires et 5 ogres**
 - Sur la route du retour dans la jungle interdite il ne se passe rien de plus que des rencontres aléatoires. La pluie finit par s’arrêté et le bruit en moins fait du bien aux oreilles
 - [[Bokor]] reste silencieux. [[Sess]] peut leur raconter le jour où ils l’ont sauvé. Il était dans une grande cage en verre, flottant dans un espèce de liquide bizarre. Pendant le combat une flèche à fragiliser le verre qui s’est éclaté. C’est à ce moment là qu’ils ont vu la première fois [[Bokor]] transformé. [[Sess]] étant la seule à pouvoir le calmer, [[Bokor]] est devenu son protégé. Dans sa colère il a tué un Salamar, un chasseur du clan. 
 ### Retour chez les Brumécailles
 - Le groupe est accueillis de la même manière que la première fois, comme s’ils étaient maintenant des Salamars
 - [[Myrelis]] s’empresse de récupérer les cristaux de magie de la part de [[Sess]] pour en lancer la distillation
 - Si les joueurs parlent de [[Luminara]], seule [[Zhyma]] sait quelque chose. Elle leur explique que ce nom désigne une cité bénie de la Grande Mère, la seule qui aurait survécu de l’Ancien temps. Cette cité se trouve très loin au nord, dans les terres du [[Royauté de Svern|Royaume de Svern]]. Il est impossible d’y aller directement depuis l’océan, ils devront passé par les terres. Il y a néanmoins une enclave du royaume plus au sud, peut être seront ils capables de les aider. Mais y aller retarde d’autant plus leur arrivée à [[Luminara]]
+
+## Notes après séance
+- Revoir le système de HP et de dégâts : trop de disparité (les mobs ont 1d6 de dégâts… les armes font bien trop peu de dégâts à côté des capacités des joueurs)
+- Prépa
+- rer les prochains scéarios, le groupe est à la recherche de Lyan Shu, Hector & Petarouge
+- Equilibrage encore !
+- Amélioration de Foundry

@@ -6,7 +6,7 @@ tags:
   - carnivore
   - kratorea
   - désert
-draft: true
+draft: false
 ---
 ![[Empereur des sables.png]]
 ## Description :

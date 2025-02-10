@@ -6,7 +6,7 @@ tags:
   - herbivore
   - kratorea
   - salamar
-draft: true
+draft: false
 ---
 
 ## ![[Colossaeon.png]]Description :

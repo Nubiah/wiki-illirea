@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ddc75b820b8e8529","type":"group","backgroundStyle":"ratio","x":-1720,"y":-1360,"width":4600,"height":3067,"label":"Untitled group","background":"quartz/content/images/Kratorea.jpg"},
-		{"id":"3ef3ff719cd853af","type":"text","text":"# [[Sularia]]","x":1940,"y":600,"width":250,"height":60},
+		{"id":"3ef3ff719cd853af","type":"text","text":"# [[quartz/content/Lieux/Kratorea/Sularia]]","x":1940,"y":600,"width":250,"height":60},
 		{"id":"b9f028266c7f1add","type":"text","text":"# Ville 2","x":2260,"y":-140,"width":250,"height":60},
 		{"id":"c910adaead03f8ac","type":"text","text":"# Ville 4","x":-1540,"y":-160,"width":250,"height":60},
 		{"id":"3ef765e77ad3a48a","type":"text","text":"# VIlle 3","x":-400,"y":960,"width":250,"height":50}

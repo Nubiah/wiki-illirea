@@ -123,6 +123,6 @@ S'il n'est pas soigné (sort de soin, potion …) dans l'heure qui suit, il meur
 Un personnage peut tenter de prodiguer les premiers soins à un personnage inconscient aux portes de la mort
 
 - Cela requiert un test d'Intelligence (Médecine) de difficulté 3 succès.
-    - En cas d'échec, le personnage est stabilité mais met 30 minutes à revenir à lui, avec 1 PV
+    - En cas d'échec, le personnage est stabilisé mais met 30 minutes à revenir à lui, avec 1 PV
     - En cas de réussite, il reprend connaissance presque immédiatement, et récupère 1d4° PV
 - La difficulté du test est augmenté à 5 succès si le dernier coup qu'à reçu le personnage était un coup critique

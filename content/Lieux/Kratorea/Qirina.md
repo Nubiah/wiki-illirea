@@ -1,6 +1,6 @@
 ---
 title: Qirina
-draft: true
+draft: false
 tags:
   - kratorea
   - xukeen
