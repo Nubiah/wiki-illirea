@@ -17,6 +17,7 @@ Les Peaux-Vertes sont un peuple regroupant de nombreuses espèces. Tous les memb
 | Gobelin                  | Magie élémentaire, chamanisme      |
 | Hobgobelin               | Alchimie & Explosifs               |
 | Ogre                     | Art & Gastronomie                  |
+
 En cas d’hybridation (commun parmi ces espèces) le joueur choisit le bonus d’un des deux ascendants.
 ## 2 - Talent pour la violence
 Les Peaux-Vertes ont la culture de la violence : pour se faire une place, il faut souvent être le plus fort ! 
