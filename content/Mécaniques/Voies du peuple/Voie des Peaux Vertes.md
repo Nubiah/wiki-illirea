@@ -1,5 +1,5 @@
 ---
-title: Voie du Gobelin
+title: Voie des Peaux Vertes
 draft: false
 ---
 ## Caractéristiques
@@ -11,12 +11,12 @@ Vous gagnez un point de caractéristiques lié à votre ascendance :
 ## 1 - Diversité
 Les Peaux-Vertes sont un peuple regroupant de nombreuses espèces. Tous les membres des Peaux Vertes gagnent +2 succès lié au domaine de prédilection de son espèce.
 
-| Espèce     | Domaine                            |
-| ---------- | ---------------------------------- |
-| Orc        | Forge, manufacture d’arme & armure |
-| Gobelin    | Magie élémentaire, chamanisme      |
-| Hobgobelin | Alchimie & Explosifs               |
-| Ogre       | Art & Gastronomie                  |
+| Espèce                   | Domaine                            |
+| ------------------------ | ---------------------------------- |
+| Orc                      | Forge, manufacture d’arme & armure |
+| Gobelin                  | Magie élémentaire, chamanisme      |
+| Hobgobelin               | Alchimie & Explosifs               |
+| Ogre                     | Art & Gastronomie                  |
 En cas d’hybridation (commun parmi ces espèces) le joueur choisit le bonus d’un des deux ascendants.
 ## 2 - Talent pour la violence
 Les Peaux-Vertes ont la culture de la violence : pour se faire une place, il faut souvent être le plus fort ! 
