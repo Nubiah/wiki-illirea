@@ -14,7 +14,7 @@ Inconscient ou courageux, l’avenir te le dira, tu as décidé d’accepter cet
 - Tu es bel et bien un Skaven déviant, n’ayant jamais “ressenti” le besoin d’obéir, tu le faisais par simple nécessité de survie
 - Un groupe de Skaven déviant se fait appeler la “**Nuée Discordante**”, dont font parti les deux Skavens qui t’ont rencontré
 - Ils souhaitent que tu restes à ton poste, pour une utilisation future. L’objectif actuel est de faire sortir de Skarnoss ces déviants, vers une cité extérieure à l’Empire
-- Tu sais qu’il existe un leader à l’extérieur de Skarnoss nommé **Grikk Malfist** mais tu n’en sais pas beaucoup plus
+- Tu sais qu’il existe un leader à l’extérieur de Skarnoss nommé [[Grikk Malfist]] mais tu n’en sais pas beaucoup plus
 
 > [!note] **Conclusion**
 > Voilà pour le contexte; te concernant, j’ai besoin de plusieurs choses :

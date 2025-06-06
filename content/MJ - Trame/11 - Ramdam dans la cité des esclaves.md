@@ -34,10 +34,14 @@ https://watabou.github.io/city-generator?size=51&seed=1677990305&name=Sularia&ci
 > - Une affiche annonce la rencontre future (dans 2 jours à compter de ce moment) d’un dragon terrifiant, le **xxxxxx**, et du **Gladiateur du ciel** (qui est [[Lyan Shu]])
 - Les habitants de ce cercle ne savent globalement pas grand chose et sont même souvent assez “simple” d’esprit
 - Certains vont essayer de leur vendre des bibelots, voir des objets qui n’en sont pas (ex : un sac de perle, qui sont en réalité des galets peints)
+> [!check] **Perception, 2 succès**
+> Le(s) joueur(s) se sent(ent) observé(s). En cas de belle réussite, le joueur voit une silhouette encapuchonnée chercher à éviter d’être vue. 
+
+
 ## Le Cercle des échanges
 > [!warning] **Accès**
 > Les armes sont prohibées ici, et la garde est assez présente. Si les joueurs sont pris avec des armes ils seront jetés en prison sans sommation.
-> Les gardes sont balèzes.
+> Les gardes sont balèzes. En cas de conflit les joueurs seront vaincus et jetés en prison, dans le cercle des Mendiants.
 - Les marchands de ce cercle sont beaucoup plus fortunés et ont plus de produit à vendre. La plupart sont assez spécialisés dans un type de produit
 	- Le dé passe à 1d10 pour savoir la qualité du marchand
 - Tout est beaucoup plus soigné ici, la garde est très visibles
@@ -50,3 +54,5 @@ https://watabou.github.io/city-generator?size=51&seed=1677990305&name=Sularia&ci
 > - Faction Skaven “Anti Skarnoss”
 > - Temple des déchus qui cache un mécanisme à la solde de Hazzak pour “pomper” la magie de la ville
 > 	- Piège à l’intérieur qui fait passer les joueurs dans une phase “fantome” où il faut mourir pour en sortir
+> 	- Habité par une création de Hazzak (cf Protogravemind Halo)
+>

@@ -10,7 +10,7 @@ tags:
 ![[Sularia.png]]
 # Caractéristiques
 - **Faction dirigeante** : [[Xu'Keen]]
-- **Nombre d’habitant** : 23947 habitants
+- **Nombre d’habitant** : environ 27860 habitants (hors cercle des mendiants)
 - **Activité principale** : commerce de tout type
 - **Religion principale** : aucune
 - **Situation politique** : en paix
@@ -41,3 +41,21 @@ Non loin de la cité, d’immenses carrières de pierre et de minerai s’étend
 ## Un centre névralgique du commerce [[Xu'Keen]]
 
 Sularia incarne l’idéal [[Xu'Keen]] : une ville où la richesse et l’opportunité sont accessibles à ceux qui savent négocier, trahir et prospérer dans les méandres du commerce. Si [[Keruga]] est le symbole du pouvoir politique de ce peuple, Sularia en est sans doute son cœur battant, un sanctuaire où les pièces d’or dictent la loi plus sûrement que n’importe quelle lame.
+
+# Lieux importants
+## a. Arène du jugement
+L’Arène du jugement est un lieu très important de Sularia. Les grandes familles s’opposent souvent de bien des manières, sur bien des sujets. Plutôt que de comploter (même si cela ne les empêche pas de le faire) les familles préfèrent se départager lors de combat de gladiateur terribles et sanglants. Ces gladiateurs sont des esclaves de par leurs origines, mais sont élevés aux rangs de notables (lorsqu’ils survivent bien sûr) et sont même logés au sein même du Cercle des Dieux. 
+## b. Dune de l’Oracle
+[[L’Oracle]] est une personnalité bienfaitrice du Cercle des Mendiants. De nombreuses personnes viennent la voir pour savoir leur “futur” immédiat, lui attribuant un pouvoir de divination sans pareil. 
+## c. Temple des déchus
+Le Temple des déchus est peut être le seul espace pouvant s’apparenter à une zone purement religieuse dans Sularia. Située dans le Cercle des Mendiants, ce temple est visité régulièrement par de nombreux Sularien cherchant à faire leur deuil d’un proche disparu. 
+## d. Maison aux 1000 livres
+Ce lieu est une gigantesque bibliothèque contenant, d’après l’adage, plus d’un millier de livre sur tous les sujets. Celle-ci est tenue par une gobeline du nom de [[Pipkin Quill]]. 
+## e. Thermes d’Obsidienne
+Les Thermes d’Obsidienne sont d’après la légende un ancien nid d’un grand dragon aquatique. Elle est composée de nombreuses alcôves naturellement chauffées par la présence de geysers sous-terrains.
+## f. Grand Bazaar
+Le slogan des vendeurs du Grand Bazaar ? “On trouve tout au Grand Bazaar ! Même ce que vous ne cherchiez pas !”
+## g. Tour du Zénith
+Point culminant du Cercle des Mendiants & du Cercle des Echanges, le haut de la tour est équipée d’une grande lumière qui tourne, servant de phare pendant la nuit pour les navires commerçants
+## h. Passage des hurleurs
+Lieu sinistre, il est la scène de nombreuses violences entre les personnes sans moyen vivant dans le cercle des mendiants et les riches bourgeois vivant juste à coté, dans le Cercle des Echanges. Anciennement une des 4 portes principales de Sularia, celle-ci fut condamnée suite à de nombreuses batailles avec la milice locale. On raconte que le Clan des Hurleurs aurait pris possession de la ruine de la porte, en faisant son QG, et qu’ils auraient réussi à recréer un passage vers le Cercle des Echanges.
